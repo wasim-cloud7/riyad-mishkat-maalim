@@ -1,0 +1,291 @@
+PHASE 1a - COMPARISON OF THE TWO EDITIONS OF RIYAD AS-SALIHEEN
+======================================================================
+Edition F  = Riyad as-Saliheen, ed. Dr. Mahir Yasin al-Fahl (Dar Ibn Kathir, Damascus/Beirut, 1428 AH / 2007) - file riyad_fahl
+Edition R  = Riyad as-Saliheen, ed. Shu'ayb al-Arna'ut (Mu'assasat al-Risalah, 3rd ed., 1419 AH / 1998) - file riyad_risalah
+
+1. HEADLINE
+----------------------------------------------------------------------
+Hadith entries in F: 1896  (numbered 1..1896 with no gaps; 372 chapters)
+Hadith entries in R: 1893 blocks  = 1892 real hadith + 1 cross-reference stub (see 2e)
+Matched one-to-one by TEXT (not by printed number): 1892
+In F but not in R: 4      In R but not in F: 1 (stub only)
+=> The two files are NOT identical in count: F has 1896 hadith, R has 1892 real hadith (4 fewer).
+   Of the 1892 shared hadith, the printed numbers agree except for a +1 shift in F#456-854 and a handful of typos in R (section 3).
+
+2. THE FIVE STRUCTURAL DIFFERENCES
+----------------------------------------------------------------------
+a) F#855 (chapter 132) - 'ان اولى الناس بالله من بدأهم بالسلام' (Abu Umama). In F this hadith is printed twice, as #855 (ch.132) and #858 (ch.133).
+   R prints it once (as #858). So R lacks the first copy of a repeated hadith.
+b) F#1374 (chapter 240) - Jabir 'ishtara minhu ba'iran fawazana lahu fa-arjaha' (muttafaq 'alayh): the text is absent from R altogether.
+c) F#1375 (chapter 240) - Abu Safwan Suwayd ibn Qays 'jalabtu ana wa-Makhrama al-'Abdi bazzan min Hajar...': absent from R altogether.
+   R's printed numbers also skip 1374 and 1375 (1373 is followed by 1376), so the numbering says they exist but the file has no text.
+d) F#1749 (chapter 335) - Abu Hurayra 'idha da'a al-rajul imra'atahu ila firashihi fa-abat...' - a repeat of F#281 (chapter 35).
+   R prints it once (as #281); the repeat in chapter 335 is absent.
+e) R#456 (chapter 54) is not a hadith: it is the closing cross-reference 'hadith al-'Irbad ... wa-qad sabaqa fi bab al-nahy 'an al-bida'.
+   F contains exactly the same words at the end of #455 ('wa-fi al-bab ahadith kathira minha: hadith al-'Irbad ...'), unnumbered.
+   R numbers it separately, which pushes every later R number up by 1 (F#456..854 = R#457..855) until the missing F#855 absorbs the shift.
+
+f) Placement: F#1673 (Abu Mas'ud al-Badri, 'naha 'an thamani al-kalb wa-mahri al-baghiy wa-hulwani al-kahin') is the last hadith of chapter 303 in F.
+   R prints the same hadith with the same number (1673) but its text sits before the heading of chapter 303 (inside chapter 302), ahead of #1668-1672. Same hadith, different position in the file.
+
+Chapters whose hadith counts differ between F and R: ch.54 (F 10 / R 11), ch.132 (F 7 / R 6), ch.240 (F 9 / R 7), ch.302 (F 11 / R 12), ch.303 (F 6 / R 5), ch.335 (F 1 / R 0)
+
+3. NUMBERING IN R (printed numbers vs true position)
+----------------------------------------------------------------------
+Printed-number typos in R's file: 13
+   F#61: R prints '62' but its position (by text and sequence) is 61
+   F#62: R prints '63' but its position (by text and sequence) is 62
+   F#135: R prints '139' but its position (by text and sequence) is 135
+   F#289: R prints '989' but its position (by text and sequence) is 289
+   F#341: R prints '241' but its position (by text and sequence) is 341
+   F#1376: R prints '1276' but its position (by text and sequence) is 1376
+   F#1453: R prints '453' but its position (by text and sequence) is 1453
+   F#1454: R prints '454' but its position (by text and sequence) is 1454
+   F#1455: R prints '55' but its position (by text and sequence) is 1455
+   F#1456: R prints '56' but its position (by text and sequence) is 1456
+   F#1612: R prints '612' but its position (by text and sequence) is 1612
+   F#1613: R prints '13' but its position (by text and sequence) is 1613
+   F#1697: R prints '1967' but its position (by text and sequence) is 1697
+   (These are typing errors in the Shamela file; the text itself was matched, so they do not affect the comparison.)
+
+4. WORDING OF THE 1892 SHARED HADITH
+----------------------------------------------------------------------
+Method: both texts stripped of diacritics, punctuation, footnote markers (F), page markers (F) and Qur'an references; compared word by word;
+each difference classified. Spelling conventions (e.g. الرحمان/الرحمن, ومئة/ومائة) and attached connector letters are reported separately from real wording differences.
+
+Hadith by overall status (one status per hadith):
+    1125  IDENTICAL                        identical word for word (diacritics ignored)
+      90  SPACING_ONLY                     identical words, only word spacing differs (e.g. ما لا / مالا)
+     128  HAMZA_ALIF_SPELLING_ONLY         identical except hamza/alif/ya spelling (e.g. أ/ا, ى/ي, ة/ه)
+      50  ORTHOGRAPHIC_CONVENTIONS_ONLY    only spelling conventions differ (e.g. الرحمان/الرحمن)
+     107  CONNECTOR_LETTERS_ONLY           only attached connector letters (و/ف/ب/ل) and spelling conventions differ
+      25  BLESSING_FORMULAE_ONLY           only blessing formulae differ (e.g. تعالى / عز وجل / صلى الله عليه وسلم)
+     367  WORDING_DIFFERENCES              at least one real wording difference (different word, extra word or minor word form)
+    1892  TOTAL
+
+=> 1215 hadith are word-for-word identical; 310 differ only in spelling/connector/blessing; 367 contain at least one real wording difference.
+
+Differences by type (individual differences, all hadith):
+      97  WORDING (different word(s))
+     138  EXTRA WORD(S) only in Fahl
+     123  EXTRA WORD(S) only in Risalah
+     160  MINOR WORD FORM
+      44  BLESSING FORMULA
+     152  CONNECTOR LETTER (و/ف/ب/ل...)
+     141  SPELLING CONVENTION
+   words present only in F: 261;  words present only in R: 298
+   hadith with at least one SUBSTANTIVE difference (different / extra words): 269; of these, inside the quoted prophetic text of the body: 94
+
+Notes on interpretation:
+  * 'Extra words' are mostly one-word insertions (the Arabic particle إنّ/إني, هذه, تعالى, a repeated 'قال'): different manuscripts/riwayat followed by each editor.
+  * Differences in the TAKHRIJ TAIL (after 'رواه ...') are usually editorial (e.g. 'رواه الترمذي وقال: حديث حسن صحيح' vs a shorter form), not the hadith text.
+  * Every difference is listed with its surrounding words in phase1a_wording_differences.csv (filter 'importance' = SUBSTANTIVE).
+
+5. THE 30 LARGEST WORDING DIFFERENCES INSIDE THE QUOTED MATN (examples)
+----------------------------------------------------------------------
+F#438 (R printed 438, ch.51):
+     F: يقرب وضوءه، فيتمضمض ويستنشق [[فيستنثر،]] إلا خرت خطايا وجهه
+     R: يقرب وضوءه، فيتمضمض ويستنشق [[فينتثر، إلا خرت خطايا وجهه وفيه وخياشيمه. ثم إذا غسل وجهه كما أمره الله]] إلا خرت خطايا وجهه
+F#818 (R printed 819, ch.127):
+     F: تعالى ترة، ومن اضطجع [[مضجعا لا يذكر]] الله تعالى فيه، كانت
+     R: تعالى ترة، ومن اضطجع [[مضطجعا لايذكر]] الله تعالى فيه كانت
+F#836 (R printed 837, ch.129):
+     F: الله ترة، ومن اضطجع [[مضجعا لا يذكر]] الله تعالى فيه كانت
+     R: الله ترة، ومن اضطجع [[مضطجعا لايذكر]] الله تعالى فيه كانت
+F#833 (R printed 834, ch.129):
+     F: به جنتك، ومن اليقين [[ما تهون]] علينا مصائب الدنيا، اللهم
+     R: به جنتك، ومن اليقين [[ماتهون به]] علينا مصائب الدنيا. اللهم
+F#1445 (R printed 1445, ch.245):
+     F: وجنب الشيطان ما رزقتنا، [[فقضي]] بينهما ولد، لم يضره».
+     R: وجنب الشيطان ما رزقتنا، [[فإنه إن يقدر]] بينهما ولد في ذلك
+F#1446 (R printed 1446, ch.246):
+     F: فراشه، قال: «باسمك اللهم [[أحيا وأموت»]] وإذا استيقظ قال: «الحمد
+     R: فراشه قال: "باسمك اللهم [[أموت وأحيا]] "وإذا استيقظ قال: "الحمد
+F#1821 (R printed 1821, ch.370):
+     F: القبر، فيتمرغ عليه ويقول: [[يا ليتني كنت]] مكان صاحب هذا القبر،
+     R: بالقبر، فيتمرغ عليه، ويقول: [[ياليتني]] مكان صاحب هذا القبر،
+F#512 (R printed 513, ch.56):
+     F: يقول: «طوبى لمن هدي [[للإسلام،]] وكان عيشه كفافا وقنع».
+     R: يقول: "طوبى لمن هدي [[إلى الإسلام،]] وكان عيشه كفافا، وقنع"
+F#569 (R printed 570, ch.63):
+     F: عما ترى؟! قال: بلى [[وعزتك]] ولكن لا غنى بي
+     R: عما ترى؟، قال: بلى [[يا رب،]] ولكن لا غنى بي
+F#1399 (R printed 1399, ch.243):
+     F: فإن صلاتكم معروضة علي». [[قال: قالوا:]] يا رسول الله، وكيف
+     R: فيه، فإن صلاتكم معروضة [[علي"فقالوا:]] يا رسول الله، وكيف
+F#1643 (R printed 1643, ch.296):
+     F: «إنما هلكت بنوإسرائيل حين [[اتخذها]] نساؤهم». متفق عليه.
+     R: هلكت بنو إسرائيل حين [[اتخذ هذه]] نساؤهم" متفق عليه.
+F#1808 (R printed 1808, ch.370):
+     F: وإن يخرج ولست فيكم، [[فامرؤ]] حجيج نفسه، والله خليفتي
+     R: وإن يخرج ولست فيكم، [[فكل امريء]] حجيج نفسه، والله خليفتي
+F#1821 (R printed 1821, ch.370):
+     F: الدنيا حتى يمر الرجل [[على القبر،]] فيتمرغ عليه ويقول: يا
+     R: الدنيا حتى يمر الرجل [[بالقبر،]] فيتمرغ عليه، ويقول: ياليتني
+F#10 (R printed 10, ch.1):
+     F: ثم أتى المسجد لا [[يريد]] إلا الصلاة، لا ينهزه
+     R: ثم أتى المسجد لا [[ينهزه]] إلا الصلاة، لا يريد
+F#10 (R printed 10, ch.1):
+     F: يريد إلا الصلاة، لا [[ينهزه]] إلا الصلاة: لم يخط
+     R: ينهزه إلا الصلاة، لا [[يريد]] إلا الصلاة، لم يخط
+F#43 (R printed 43, ch.3):
+     F: «إذا أراد الله بعبده [[الخير]] عجل له العقوبة في
+     R: "إذا أراد الله بعبده [[خيرا]] عجل له العقوبة في
+F#376 (R printed 376, ch.46):
+     F: ورجل دعته امرأة ذات [[حسن]] وجمال، فقال: إني أخاف
+     R: ورجل دعته امرأة ذات [[منصب]] وجمال، فقال: إني أخاف
+F#542 (R printed 543, ch.59):
+     F: داود صلى الله عليه [[وسلم]] كان يأكل من عمل
+     R: وإن نبي الله عليه [[السلام]] كان يأكل من عمل
+F#623 (R printed 624, ch.73):
+     F: والإثم: ما حاك في [[صدرك،]] وكرهت أن يطلع عليه
+     R: والإثم: ما حاك في [[نفسك،]] وكرهت أن يطلع عليه
+F#974 (R printed 974, ch.170):
+     F: ضحكت؟ قال: «إن ربك [[تعالى]] يعجب من عبده إذا
+     R: قال: " إن ربك [[سبحانه]] يعجب من عبده إذا
+F#983 (R printed 983, ch.174):
+     F: ما يدب عليك، وأعوذ [[بك]] من شر أسد وأسود،
+     R: ما يدب عليك، وأعوذ [[بالله]] من شر أسد وأسود،
+F#995 (R printed 995, ch.180):
+     F: الأترجة: ريحها طيب وطعمها [[طيب،]] ومثل المؤمن الذي لا
+     R: الأترجة: ريحها طيب وطعمها [[حلو،]] ومثل المؤمن الذي لا
+F#1057 (R printed 1057, ch.189):
+     F: أعظم أجرا من الذي [[يصليها]] ثم ينام». متفق عليه.
+     R: أعظم أجرا من الذي [[يصلي]] ثم ينام" متفق عليه.
+F#1081 (R printed 1081, ch.193):
+     F: فإن انتقص من فريضته [[شيء،]] قال الرب عز وجل:
+     R: فإن انتقص من فريضته [[شيئا،]] قال الرب، عز وجل:
+F#1278 (R printed 1278, ch.233):
+     F: «عمرة في رمضان تعدل [[حجة]] - أو حجة معي».
+     R: قال:"عمرة في رمضان تعدل [[عمرة]] أو حجة معي" متفق
+F#1324 (R printed 1324, ch.234):
+     F: لا تتمنوا لقاء العدو، [[واسألوا]] الله العافية، فإذا لقيتموهم
+     R: لا تتمنوا لقاء العدو، [[وسلوا]] الله العافية، فإذا لقيتموهم
+F#1341 (R printed 1341, ch.234):
+     F: يغز، ولم يحدث نفسه [[بالغزو،]] مات على شعبة من
+     R: يغز، ولم يحدث نفسه [[بغزو،]] مات على شعبة من
+F#1358 (R printed 1358, ch.236):
+     F: عضو منه، عضوا منه [[في]] النار، حتى فرجه بفرجه».
+     R: عضو منه عضوا منه [[من]] النار حتى فرجه بفرجه".
+F#1385 (R printed 1385, ch.241):
+     F: خرج في طلب العلم [[فهو]] في سبيل الله حتى
+     R: خرج في طلب العلم، [[كان]] في سبيل الله حتى
+F#1600 (R printed 1600, ch.282):
+     F: «عذبت امرأة في هرة [[سجنتها]] حتى ماتت، فدخلت فيها
+     R: "عذبت امرأة في هرة [[حبستها]] حتى ماتت، فدخلت فيها
+
+6. VERDICT FOR PHASE 1a
+----------------------------------------------------------------------
+The two editions contain the same book (1892 hadith in common, in the same order, in the same chapters apart from one boundary case).
+They are not literally identical: F has 4 entries that R lacks (2 are repeats of hadith printed twice in F, 2 are absent altogether),
+and about 20% of the shared hadith contain at least one real word-level difference, most of them one-word differences between riwayat.
+Under the rule you set on 2026-11-22 (section 7), only 11 of the 1892 shared hadith (0.6%) count as having a real difference.
+F (1896, clean numbering 1..1896) is the best master numbering for the next phases.
+
+7. YOUR WORDING-DIFFERENCE RULE APPLIED TO THE 1892 SHARED HADITH (added 2026-11-22)
+----------------------------------------------------------------------
+Rule as you gave it: 'at least one real wording difference is not always a real difference, even though we can have the numbers for it;
+at least 3 real wording differences will be considered a real difference, and furthermore even at least four real wording differences will be
+considered a real difference if 90% of the wording matches.'
+Reading used (the only one that keeps both clauses meaningful): a hadith pair has a REAL DIFFERENCE when it has >= 3 real wording differences and the
+two texts match less than 90%, or >= 4 real wording differences when they match 90% or more. The grid below lets you apply any other reading.
+
+Definitions
+  real wording difference = a different word, an extra word, or a minor word form (الخير / خيرا). NOT counted: spelling conventions (الرحمان / الرحمن),
+     hamza/alif/ya spelling, word spacing, attached connector letters (و ف ب ل), blessing formulae (تعالى / عز وجل / صلى الله عليه وسلم).
+  scope 'body' (headline) = the hadith text, i.e. chain + matn; the takhrij tail after 'رواه ...' is editorial and excluded. 'quoted' = only inside the quotation marks
+     (the Prophet's own words). 'all' = body + takhrij tail.
+  match % = 100 x (1 - words inside real differences / words of the longer edition's text), per hadith.
+
+Numbers (hadith out of 1892 compared; body scope, real = different + extra + minor word form)
+    at least 1 real wording difference :  294   (match >= 90%: 280, match < 90%: 14)
+    at least 2 real wording differences:   68   (match >= 90%: 60, match < 90%: 8)
+    at least 3 real wording differences:   19   (match >= 90%: 17, match < 90%: 2)
+    at least 4 real wording differences:   10   (match >= 90%: 9, match < 90%: 1)
+    no real wording difference         : 1598
+    => REAL DIFFERENCE under the rule (>=3 and match<90%, or >=4 and match>=90%): 11 hadith
+    distribution of hadith by number of real wording differences (body): 0: 1598, 1: 226, 2: 49, 3: 9, 4: 5, 5+: 5
+    hadith whose match is below 90% (all short hadith): 14
+
+Full grid (hadith counts)            >=1 / >=2 / >=3 / >=4     rule-real
+  real (different + extra + minor word form)   body     294 /  68 /  19 /  10         11
+  real (different + extra + minor word form)   quoted   137 /  25 /   7 /   2          4
+  real (different + extra + minor word form)   all      367 /  89 /  31 /  12         13
+  strict (different + extra words only)        body     216 /  46 /  10 /   6          7
+  strict (different + extra words only)        quoted    94 /  17 /   4 /   1          3
+  strict (different + extra words only)        all      269 /  61 /  12 /   7          8
+
+Reading the numbers: 294 of the 1892 hadith differ in at least one real word, but only 11 meet your rule for a real difference; the remaining differences
+are single words (إنّ / هذه / a repeated قال, one different word or a minor word form) that follow different manuscripts or riwayat and do not change the hadith.
+
+The 11 hadith with a REAL DIFFERENCE under the rule (F = al-Fahl, R = al-Risalah; only the real differences are shown):
+  F#21 (R printed 21, ch.2): 8 real differences in the body, match 98.1%, words F/R 1774/1749, threshold 4
+       [different word] F: لن أنجو | R: لم أنج
+       [extra only in Fahl] F: فأجمعت صدقه وأصبح رسول الله صلى الله عليه وسلم قادما، وكان إ | R: -
+       [minor word form] F: ولكني | R: ولكنني
+       [extra only in Fahl] F: أن | R: -
+       [extra only in Risalah] F: - | R: قال:
+       [extra only in Risalah] F: - | R: فيها
+       [minor word form] F: فكان | R: وكان
+       [extra only in Risalah] F: - | R: [التوبة:
+  F#1867 (R printed 1867, ch.370): 8 real differences in the body, match 99.2%, words F/R 1028/1037, threshold 4
+       [different word] F: {رب | R: {ربنا
+       [minor word form] F: «فلذلك | R: وسلم:"فذلك
+       [extra only in Risalah] F: - | R: فأغث.
+       [extra only in Fahl] F: من | R: -
+       [minor word form] F: أهلهم | R: أهليهم
+       [extra only in Fahl] F: أن | R: -
+       [minor word form] F: فصنعا | R: فصنع
+       [minor word form] F: فنظرت | R: ونظرت،
+  F#1866 (R printed 1866, ch.370): 7 real differences in the body, match 97.8%, words F/R 491/481, threshold 4
+       [extra only in Risalah] F: - | R: إلى
+       [minor word form] F: فيأتونه | R: ويأتونه
+       [extra only in Fahl] F: إلى | R: -
+       [extra only in Fahl] F: اليوم | R: -
+       [extra only in Fahl] F: إلى | R: -
+       [extra only in Fahl] F: عيسى: | R: -
+       [different word] F: يا رب، أمتي يا رب، | R: يارب،
+  F#416 (R printed 416, ch.51): 5 real differences in the body, match 97.1%, words F/R 169/171, threshold 4
+       [extra only in Risalah] F: - | R: يوم
+       [different word] F: أزوادهم، | R: أزاودهم،
+       [extra only in Risalah] F: - | R: الآخر
+       [extra only in Risalah] F: - | R: عليه
+       [extra only in Fahl] F: الله | R: -
+  F#1294 (R printed 1294, ch.234): 5 real differences in the body, match 96.1%, words F/R 128/128, threshold 4
+       [extra only in Risalah] F: - | R: ضامن
+       [extra only in Fahl] F: ضامن | R: -
+       [minor word form] F: يشق | R: أشق
+       [minor word form] F: سبيل | R: سببيل
+       [minor word form] F: أن | R: أني
+  F#501 (R printed 502, ch.56): 4 real differences in the body, match 95.4%, words F/R 305/292, threshold 4
+       [extra only in Fahl] F: بي | R: -
+       [different word] F: رسول الله | R: رسوله
+       [different word] F: الرجل فيشرب حتى يروى، ثم يرد علي القدح، فأعطيه الرجل | R: الآخر
+       [minor word form] F: لا | R: ما
+  F#709 (R printed 710, ch.95): 4 real differences in the body, match 97.8%, words F/R 182/182, threshold 4
+       [minor word form] F: فاحتفرت، | R: فاحتفزت،
+       [different word] F: أظهرنا | R: ظهرينا
+       [minor word form] F: فاحتفرت | R: فاحتفزت
+       [minor word form] F: يحتفر | R: يحتفز
+  F#970 (R printed 970, ch.169): 4 real differences in the body, match 93.7%, words F/R 63/63, threshold 4
+       [minor word form] F: إخوانكم | R: إخونكم
+       [extra only in Risalah] F: - | R: يعني
+       [extra only in Fahl] F: يعني | R: -
+       [minor word form] F: اثنين | R: اثنيين
+  F#1445 (R printed 1445, ch.245): 4 real differences in the body, match 82.9%, words F/R 36/41, threshold 3
+       [different word] F: عنه | R: عنهما
+       [different word] F: فقضي | R: فإنه إن يقدر
+       [extra only in Risalah] F: - | R: في ذلك
+       [extra only in Risalah] F: - | R: شيطان"
+  F#1617 (R printed 1617, ch.288): 4 real differences in the body, match 97.5%, words F/R 156/157, threshold 4
+       [extra only in Risalah] F: - | R: العلم
+       [extra only in Fahl] F: به | R: -
+       [extra only in Risalah] F: - | R: هو
+       [different word] F: حتى | R: ثم
+  F#542 (R printed 543, ch.59): 3 real differences in the body, match 88.1%, words F/R 42/38, threshold 3
+       [extra only in Fahl] F: قط | R: -
+       [extra only in Fahl] F: داود صلى الله | R: -
+       [different word] F: وسلم | R: السلام
+
+Per-hadith values for all 1892 pairs: phase1a_real_differences_by_hadith.csv (columns at_least_1..4, match_pct_body, REAL_DIFFERENCE_by_rule).
+Unchanged by this rule: the five structural differences (section 2) - F has 1896 hadith, R has 1892 - and the numbering findings (section 3).

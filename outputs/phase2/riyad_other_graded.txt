@@ -1,0 +1,29 @@
+﻿Riyad as-Saliheen: OTHER verdicts (shadh / mixed / other) - 4 of 1896
+=====================================================================
+Benchmark: a hadith counts as SAHIH when Albani and/or Arna'ut grade it sahih (either one is enough). Evidence ladder: A1/N1 = inferred from Bukhari/Muslim attribution, A2 = Albani's own label in his Riyad file, A3 = Albani's label on the matching Mishkat entry. Arna'ut's gradings are NOT in the supplied Risalah file, so his side currently rests on rung N1 only.
+Statuses: IN_CONFIRMED = same hadith found; IN_PROBABLE = probably the same hadith in another narration/abridgement; UNCERTAIN = weaker resemblance; DIFF_COMPANION = same wording but a different Companion (distinct hadith); NOT_IN = nothing comparable found.
+
+[F#961 | Risalah no. 961] Ch.167 باب استحباب طلب الرفقة وتأميرهم عَلَى أنفسهم واحدًا يطيعونه
+   Albani: OTHER [A3] «مُرْسل» | Arna'ut: UNGRADED [N0]
+   Sources: D,DAR,T | P2
+   Mishkat: IN_CONFIRMED (#3912) | Ma'alim: NOT_IN  [al-Fahl footnote: isnad weak]
+   وعن ابن عبّاسٍ رضي الله عنهما، عن النبيِّ صلى الله عليه وسلم قَالَ: «خَيْرُ الصَّحَابَةِ أرْبَعَةٌ، وَخَيْرُ السَّرَايَا أرْبَعُمِائَةٍ، وَخَيْرُ الجُيُوشِ أرْبَعَةُ آلَافٍ، وَلَنْ يُغْلَبَ اثْنَا عَشَرَ ألْفًا مِنْ قِلةٍ». رواه أَبُو داود والترمذي، وقال: «حديث حسن».
+------------------------------------------------------------------------------
+[F#1094 | Risalah no. 1094] Ch.194 باب فضل الصف الأول والأمر بإتمام الصفوف الأُوَل وتسويتها والتراصّ فِيهَا
+   Albani: SHADH [A2] «شاذ» | Arna'ut: UNGRADED [N0]
+   Sources: D,J | P2
+   Mishkat: IN_CONFIRMED (#1096) | Ma'alim: DIFF_COMPANION (block 1162, book no. 1416)
+   وعن عائشة رضي الله عنها، قالت: قال رَسُول اللهِ صلى الله عليه وسلم: «إنَّ اللهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى مَيَامِنِ الصُّفُوفِ». رواه أبُو دَاوُدَ بإسنادٍ عَلَى شرط مسلم، وفيه رجل مُخْتَلَفٌ في تَوثِيقِهِ.
+------------------------------------------------------------------------------
+[F#1121 | Risalah no. 1121] Ch.200 باب سنة العصر
+   Albani: SHADH [A2] «شاذ بهذا اللفظ» | Arna'ut: UNGRADED [N0]
+   Sources: D | P2
+   Mishkat: IN_CONFIRMED (#1172) | Ma'alim: NOT_IN
+   وعن علي بن أبي طالب رضي الله عنه: أنَّ النبيَّ صلى الله عليه وسلم كَانَ يُصَلِّي قَبلَ العَصْرِ رَكْعَتَيْنِ. رَوَاهُ أبُو دَاوُدَ بإسناد صحيح.
+------------------------------------------------------------------------------
+[F#1596 | Risalah no. 1596] Ch.280 باب تحريم الهجران بين المسلمين فوق ثلاثة أيام إِلاَّ لبدعة في المهجور، أَوْ تظاهرٍ بفسقٍ أَوْ نحو ذَلِكَ
+   Albani: OTHER [A3] «إِسْنَاده لين» | Arna'ut: UNGRADED [N0]
+   Sources: A,D | P2
+   Mishkat: IN_CONFIRMED (#5036) | Ma'alim: NOT_IN
+   وعن أَبي خِراشٍ حَدْرَدِ بنِ أَبي حَدْرَدٍ الأسلميِّ. ويقالُ: السُّلمِيّ الصحابي رضي الله عنه: أنَّه سمع النبيَّ صلى الله عليه وسلم يقولُ: «مَنْ هَجَرَ أخَاهُ سَنَةً فَهُوَ كَسَفْكِ دَمِهِ». رواه أَبُو داود بإسناد صحيح.
+------------------------------------------------------------------------------

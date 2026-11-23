@@ -1,0 +1,74 @@
+PHASE 1b - ANALYSIS OF ALBANI'S TAHQEEQ FILE OF RIYAD AS-SALIHEEN
+======================================================================
+File: 'تحقيق رياض الصالحين للألباني (النووي)', al-Maktab al-Islami, Beirut, 639 pages (page numbers follow the printed edition).
+
+1. WHAT THE FILE CONTAINS
+----------------------------------------------------------------------
+Pages/entries in the file: 99 (front matter 2, chapter-heading notes 3, hadith pages 94)
+Each entry is a PAGE of Albani's edition on which he wrote a footnote. The file does NOT contain the whole book: it holds only the annotated pages.
+Hadith entries with an Albani footnote: 94  (92 carry a footnote text)
+Share of Riyad covered: 94 of 1896 hadith = 5.0%
+
+2. ALBANI'S LABELS IN THIS FILE
+----------------------------------------------------------------------
+    54  DA'IF (weak)                                  [ضعيف]
+    18  SAHIH                                         [صحيح]
+     8  NO LABEL (comment on a wording/ruling)        [-]
+     4  HASAN                                         [حسن]
+     3  HASAN (li-ghayrihi)                           [حسن لغيره]
+     2  SAHIH (bi-shawahidihi)                        [صحيح بشواهده]
+     1  MIXED (1st narration sahih, 2nd shadh)        [الرواية الأولى صحيحة والثانية شاذة]
+     1  SHADH                                         [شاذ]
+     1  SHADH (this wording)                          [شاذ بهذا اللفظ]
+     1  HASAN SAHIH                                   [حسن صحيح]
+     1  SAHIH (li-ghayrihi)                           [صحيح لغيره]
+    94  TOTAL
+
+Explicit sahih-type labels: 22   da'if: 54   hasan-type: 7   shadh/mixed: 3   unlabeled comments: 8
+
+3. NUMBERING OF ALBANI'S EDITION vs THE TWO EDITIONS
+----------------------------------------------------------------------
+Albani numbers every hadith too; his numbers run ahead of F's by 1 to 9 (offsets below). The file does not say why (probably some narrations or variants carry their own number in his edition) - not verified.
+Offset = Albani number - F number, in book order (each run = consecutive annotated hadith with the same offset):
+   offset +1: Albani #67..#94  (3 annotated hadith)
+   offset +2: Albani #110  (1 annotated hadith)
+   offset +5: Albani #201  (1 annotated hadith)
+   offset +6: Albani #292  (1 annotated hadith)
+   offset +4: Albani #360..#371  (4 annotated hadith)
+   offset +5: Albani #378..#490  (6 annotated hadith)
+   offset +6: Albani #521..#702  (10 annotated hadith)
+   offset +5: Albani #718..#927  (13 annotated hadith)
+   offset +7: Albani #947..#1166  (18 annotated hadith)
+   offset +8: Albani #1176..#1212  (3 annotated hadith)
+   offset +9: Albani #1244  (1 annotated hadith)
+   offset +8: Albani #1256..#1649  (20 annotated hadith)
+   offset +9: Albani #1679..#1883  (13 annotated hadith)
+Last annotated hadith: Albani #1883 = F#1874 (offset +9).
+Inferred total of Albani's numbering = 1896 + 9 = about 1905 (an inference from the offset at the last annotated page, not a count).
+Hadith-mapping method: each Albani entry was matched to F by text (containment score >= 0.6, tie-broken by position); all 94 matched.
+One entry (Albani #1700, 'al-jaras mizmar al-shaytan') is worded and attributed differently in Albani's edition (Abu Dawud, 'mizmar') than in F and R (Muslim, 'mazamir');
+it was placed by position (F#1691) and flagged in the CSV.
+
+4. THE PHASE 1b TEST: DO SAHIH + DA'IF ADD UP TO THE TOTAL?
+----------------------------------------------------------------------
+Hadith in F: 1896.   Albani entries with any label: 86  (+8 unlabeled comments).
+Sahih (22) + da'if (54) = 76; with hasan/shadh/mixed: 86.
+=> They do not add up to 1896 (they cover 4.5%). Under the rule you set, this is 'problematic'.
+
+WHY: Albani's edition is a lightly annotated text. He footnotes the hadith he wants to correct or qualify and says nothing about the rest.
+His silence is not a grade in this file: the ~1800 unmarked hadith are not labelled sahih in any entry.
+
+5. CONSEQUENCE FOR PHASE 2 (what has to be decided)
+----------------------------------------------------------------------
+To say which Riyad hadith are 'sahih according to Albani' we need a grade for every hadith. The only Albani-grade evidence inside the supplied files is:
+  (1) this file (94 hadith, mostly da'if),
+  (2) Mishkat al-Masabih (Albani's edition): footnote grades for every hadith that Mishkat contains and that is not in Bukhari/Muslim,
+  (3) Nawawi's own attribution in Riyad: 'muttafaq 'alayh' / 'rawahu al-Bukhari' / 'rawahu Muslim' (the Sahihayn, which Albani treats as sahih).
+An 'evidence ladder' built from these gives a defensible sahih / da'if / not-graded split without guessing. See the Phase 2 notes in Notion.
+
+6. UPDATE 2026-11-22 - DECISION TAKEN
+----------------------------------------------------------------------
+You approved the evidence ladder (Sahihayn attribution, Albani's labels in this file, Albani's labels on the matching Mishkat entries) as the grading source for Phase 2,
+and asked for a search of the internet for a complete grading of Albani for Riyad; if one exists you will download and upload it.
+The benchmark is now 'sahih according to Albani and/or Arna'ut' (either one is enough). Arna'ut's footnote gradings are not present in the supplied al-Risalah file
+(it carries the text only), so his side currently rests on the Sahihayn attribution alone. Result and counts: phase2/phase2_report.txt.

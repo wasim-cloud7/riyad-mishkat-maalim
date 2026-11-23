@@ -1,0 +1,3064 @@
+{
+ "fahl": {
+  "edition": "fahl",
+  "warnings": [],
+  "chapter_number_typos": [
+   {
+    "true": 277,
+    "printed": 227
+   }
+  ],
+  "chapters_found": 372,
+  "hadiths_found": 1896,
+  "last_hadith_num": 1896
+ },
+ "risalah": {
+  "edition": "risalah",
+  "warnings": [],
+  "typo_repairs": [
+   {
+    "true": 61,
+    "printed": 62,
+    "chapter": 5
+   },
+   {
+    "true": 62,
+    "printed": 63,
+    "chapter": 5
+   },
+   {
+    "true": 135,
+    "printed": 139,
+    "chapter": 13
+   },
+   {
+    "true": 289,
+    "printed": 989,
+    "chapter": 36
+   },
+   {
+    "true": 341,
+    "printed": 241,
+    "chapter": 42
+   },
+   {
+    "true": 1374,
+    "printed": 1276,
+    "chapter": 241
+   },
+   {
+    "true": 1375,
+    "printed": 1377,
+    "chapter": 241
+   },
+   {
+    "true": 1376,
+    "printed": 1378,
+    "chapter": 241
+   },
+   {
+    "true": 1377,
+    "printed": 1379,
+    "chapter": 241
+   },
+   {
+    "true": 1378,
+    "printed": 1380,
+    "chapter": 241
+   },
+   {
+    "true": 1379,
+    "printed": 1381,
+    "chapter": 241
+   },
+   {
+    "true": 1380,
+    "printed": 1382,
+    "chapter": 241
+   },
+   {
+    "true": 1381,
+    "printed": 1383,
+    "chapter": 241
+   },
+   {
+    "true": 1382,
+    "printed": 1384,
+    "chapter": 241
+   },
+   {
+    "true": 1383,
+    "printed": 1385,
+    "chapter": 241
+   },
+   {
+    "true": 1384,
+    "printed": 1386,
+    "chapter": 241
+   },
+   {
+    "true": 1385,
+    "printed": 1387,
+    "chapter": 241
+   },
+   {
+    "true": 1386,
+    "printed": 1388,
+    "chapter": 241
+   },
+   {
+    "true": 1387,
+    "printed": 1389,
+    "chapter": 241
+   },
+   {
+    "true": 1388,
+    "printed": 1390,
+    "chapter": 241
+   },
+   {
+    "true": 1389,
+    "printed": 1391,
+    "chapter": 241
+   },
+   {
+    "true": 1390,
+    "printed": 1392,
+    "chapter": 241
+   },
+   {
+    "true": 1391,
+    "printed": 1393,
+    "chapter": 242
+   },
+   {
+    "true": 1392,
+    "printed": 1394,
+    "chapter": 242
+   },
+   {
+    "true": 1393,
+    "printed": 1395,
+    "chapter": 242
+   },
+   {
+    "true": 1394,
+    "printed": 1396,
+    "chapter": 242
+   },
+   {
+    "true": 1395,
+    "printed": 1397,
+    "chapter": 243
+   },
+   {
+    "true": 1396,
+    "printed": 1398,
+    "chapter": 243
+   },
+   {
+    "true": 1397,
+    "printed": 1399,
+    "chapter": 243
+   },
+   {
+    "true": 1398,
+    "printed": 1400,
+    "chapter": 243
+   },
+   {
+    "true": 1399,
+    "printed": 1401,
+    "chapter": 243
+   },
+   {
+    "true": 1400,
+    "printed": 1402,
+    "chapter": 243
+   },
+   {
+    "true": 1401,
+    "printed": 1403,
+    "chapter": 243
+   },
+   {
+    "true": 1402,
+    "printed": 1404,
+    "chapter": 243
+   },
+   {
+    "true": 1403,
+    "printed": 1405,
+    "chapter": 243
+   },
+   {
+    "true": 1404,
+    "printed": 1406,
+    "chapter": 243
+   },
+   {
+    "true": 1405,
+    "printed": 1407,
+    "chapter": 243
+   },
+   {
+    "true": 1406,
+    "printed": 1408,
+    "chapter": 244
+   },
+   {
+    "true": 1407,
+    "printed": 1409,
+    "chapter": 244
+   },
+   {
+    "true": 1408,
+    "printed": 1410,
+    "chapter": 244
+   },
+   {
+    "true": 1409,
+    "printed": 1411,
+    "chapter": 244
+   },
+   {
+    "true": 1410,
+    "printed": 1412,
+    "chapter": 244
+   },
+   {
+    "true": 1411,
+    "printed": 1413,
+    "chapter": 244
+   },
+   {
+    "true": 1412,
+    "printed": 1414,
+    "chapter": 244
+   },
+   {
+    "true": 1413,
+    "printed": 1415,
+    "chapter": 244
+   },
+   {
+    "true": 1414,
+    "printed": 1416,
+    "chapter": 244
+   },
+   {
+    "true": 1415,
+    "printed": 1417,
+    "chapter": 244
+   },
+   {
+    "true": 1416,
+    "printed": 1418,
+    "chapter": 244
+   },
+   {
+    "true": 1417,
+    "printed": 1419,
+    "chapter": 244
+   },
+   {
+    "true": 1418,
+    "printed": 1420,
+    "chapter": 244
+   },
+   {
+    "true": 1419,
+    "printed": 1421,
+    "chapter": 244
+   },
+   {
+    "true": 1420,
+    "printed": 1422,
+    "chapter": 244
+   },
+   {
+    "true": 1421,
+    "printed": 1423,
+    "chapter": 244
+   },
+   {
+    "true": 1422,
+    "printed": 1424,
+    "chapter": 244
+   },
+   {
+    "true": 1423,
+    "printed": 1425,
+    "chapter": 244
+   },
+   {
+    "true": 1424,
+    "printed": 1426,
+    "chapter": 244
+   },
+   {
+    "true": 1425,
+    "printed": 1427,
+    "chapter": 244
+   },
+   {
+    "true": 1426,
+    "printed": 1428,
+    "chapter": 244
+   },
+   {
+    "true": 1427,
+    "printed": 1429,
+    "chapter": 244
+   },
+   {
+    "true": 1428,
+    "printed": 1430,
+    "chapter": 244
+   },
+   {
+    "true": 1429,
+    "printed": 1431,
+    "chapter": 244
+   },
+   {
+    "true": 1430,
+    "printed": 1432,
+    "chapter": 244
+   },
+   {
+    "true": 1431,
+    "printed": 1433,
+    "chapter": 244
+   },
+   {
+    "true": 1432,
+    "printed": 1434,
+    "chapter": 244
+   },
+   {
+    "true": 1433,
+    "printed": 1435,
+    "chapter": 244
+   },
+   {
+    "true": 1434,
+    "printed": 1436,
+    "chapter": 244
+   },
+   {
+    "true": 1435,
+    "printed": 1437,
+    "chapter": 244
+   },
+   {
+    "true": 1436,
+    "printed": 1438,
+    "chapter": 244
+   },
+   {
+    "true": 1437,
+    "printed": 1439,
+    "chapter": 244
+   },
+   {
+    "true": 1438,
+    "printed": 1440,
+    "chapter": 244
+   },
+   {
+    "true": 1439,
+    "printed": 1441,
+    "chapter": 244
+   },
+   {
+    "true": 1440,
+    "printed": 1442,
+    "chapter": 244
+   },
+   {
+    "true": 1441,
+    "printed": 1443,
+    "chapter": 244
+   },
+   {
+    "true": 1442,
+    "printed": 1444,
+    "chapter": 245
+   },
+   {
+    "true": 1443,
+    "printed": 1445,
+    "chapter": 245
+   },
+   {
+    "true": 1444,
+    "printed": 1446,
+    "chapter": 246
+   },
+   {
+    "true": 1445,
+    "printed": 1447,
+    "chapter": 247
+   },
+   {
+    "true": 1446,
+    "printed": 1448,
+    "chapter": 247
+   },
+   {
+    "true": 1447,
+    "printed": 1449,
+    "chapter": 247
+   },
+   {
+    "true": 1448,
+    "printed": 1450,
+    "chapter": 247
+   },
+   {
+    "true": 1449,
+    "printed": 1451,
+    "chapter": 248
+   },
+   {
+    "true": 1450,
+    "printed": 1452,
+    "chapter": 248
+   },
+   {
+    "true": 1451,
+    "printed": 453,
+    "chapter": 248
+   },
+   {
+    "true": 1452,
+    "printed": 454,
+    "chapter": 248
+   },
+   {
+    "true": 1453,
+    "printed": 55,
+    "chapter": 248
+   },
+   {
+    "true": 1454,
+    "printed": 56,
+    "chapter": 248
+   },
+   {
+    "true": 1455,
+    "printed": 1457,
+    "chapter": 248
+   },
+   {
+    "true": 1456,
+    "printed": 1458,
+    "chapter": 249
+   },
+   {
+    "true": 1457,
+    "printed": 1459,
+    "chapter": 249
+   },
+   {
+    "true": 1458,
+    "printed": 1460,
+    "chapter": 249
+   },
+   {
+    "true": 1459,
+    "printed": 1461,
+    "chapter": 249
+   },
+   {
+    "true": 1460,
+    "printed": 1462,
+    "chapter": 249
+   },
+   {
+    "true": 1461,
+    "printed": 1463,
+    "chapter": 249
+   },
+   {
+    "true": 1462,
+    "printed": 1464,
+    "chapter": 249
+   },
+   {
+    "true": 1463,
+    "printed": 1465,
+    "chapter": 250
+   },
+   {
+    "true": 1464,
+    "printed": 1466,
+    "chapter": 250
+   },
+   {
+    "true": 1465,
+    "printed": 1467,
+    "chapter": 250
+   },
+   {
+    "true": 1466,
+    "printed": 1468,
+    "chapter": 250
+   },
+   {
+    "true": 1467,
+    "printed": 1469,
+    "chapter": 250
+   },
+   {
+    "true": 1468,
+    "printed": 1470,
+    "chapter": 250
+   },
+   {
+    "true": 1469,
+    "printed": 1471,
+    "chapter": 250
+   },
+   {
+    "true": 1470,
+    "printed": 1472,
+    "chapter": 250
+   },
+   {
+    "true": 1471,
+    "printed": 1473,
+    "chapter": 250
+   },
+   {
+    "true": 1472,
+    "printed": 1474,
+    "chapter": 250
+   },
+   {
+    "true": 1473,
+    "printed": 1475,
+    "chapter": 250
+   },
+   {
+    "true": 1474,
+    "printed": 1476,
+    "chapter": 250
+   },
+   {
+    "true": 1475,
+    "printed": 1477,
+    "chapter": 250
+   },
+   {
+    "true": 1476,
+    "printed": 1478,
+    "chapter": 250
+   },
+   {
+    "true": 1477,
+    "printed": 1479,
+    "chapter": 250
+   },
+   {
+    "true": 1478,
+    "printed": 1480,
+    "chapter": 250
+   },
+   {
+    "true": 1479,
+    "printed": 1481,
+    "chapter": 250
+   },
+   {
+    "true": 1480,
+    "printed": 1482,
+    "chapter": 250
+   },
+   {
+    "true": 1481,
+    "printed": 1483,
+    "chapter": 250
+   },
+   {
+    "true": 1482,
+    "printed": 1484,
+    "chapter": 250
+   },
+   {
+    "true": 1483,
+    "printed": 1485,
+    "chapter": 250
+   },
+   {
+    "true": 1484,
+    "printed": 1486,
+    "chapter": 250
+   },
+   {
+    "true": 1485,
+    "printed": 1487,
+    "chapter": 250
+   },
+   {
+    "true": 1486,
+    "printed": 1488,
+    "chapter": 250
+   },
+   {
+    "true": 1487,
+    "printed": 1489,
+    "chapter": 250
+   },
+   {
+    "true": 1488,
+    "printed": 1490,
+    "chapter": 250
+   },
+   {
+    "true": 1489,
+    "printed": 1491,
+    "chapter": 250
+   },
+   {
+    "true": 1490,
+    "printed": 1492,
+    "chapter": 250
+   },
+   {
+    "true": 1491,
+    "printed": 1493,
+    "chapter": 250
+   },
+   {
+    "true": 1492,
+    "printed": 1494,
+    "chapter": 251
+   },
+   {
+    "true": 1493,
+    "printed": 1495,
+    "chapter": 251
+   },
+   {
+    "true": 1494,
+    "printed": 1496,
+    "chapter": 252
+   },
+   {
+    "true": 1495,
+    "printed": 1497,
+    "chapter": 252
+   },
+   {
+    "true": 1496,
+    "printed": 1498,
+    "chapter": 252
+   },
+   {
+    "true": 1497,
+    "printed": 1499,
+    "chapter": 252
+   },
+   {
+    "true": 1498,
+    "printed": 1500,
+    "chapter": 252
+   },
+   {
+    "true": 1499,
+    "printed": 1501,
+    "chapter": 252
+   },
+   {
+    "true": 1500,
+    "printed": 1502,
+    "chapter": 252
+   },
+   {
+    "true": 1501,
+    "printed": 1503,
+    "chapter": 253
+   },
+   {
+    "true": 1502,
+    "printed": 1504,
+    "chapter": 253
+   },
+   {
+    "true": 1503,
+    "printed": 1505,
+    "chapter": 253
+   },
+   {
+    "true": 1504,
+    "printed": 1506,
+    "chapter": 253
+   },
+   {
+    "true": 1505,
+    "printed": 1507,
+    "chapter": 253
+   },
+   {
+    "true": 1506,
+    "printed": 1508,
+    "chapter": 253
+   },
+   {
+    "true": 1507,
+    "printed": 1509,
+    "chapter": 253
+   },
+   {
+    "true": 1508,
+    "printed": 1510,
+    "chapter": 253
+   },
+   {
+    "true": 1509,
+    "printed": 1511,
+    "chapter": 254
+   },
+   {
+    "true": 1510,
+    "printed": 1512,
+    "chapter": 254
+   },
+   {
+    "true": 1511,
+    "printed": 1513,
+    "chapter": 254
+   },
+   {
+    "true": 1512,
+    "printed": 1514,
+    "chapter": 254
+   },
+   {
+    "true": 1513,
+    "printed": 1515,
+    "chapter": 254
+   },
+   {
+    "true": 1514,
+    "printed": 1516,
+    "chapter": 254
+   },
+   {
+    "true": 1515,
+    "printed": 1517,
+    "chapter": 254
+   },
+   {
+    "true": 1516,
+    "printed": 1518,
+    "chapter": 254
+   },
+   {
+    "true": 1517,
+    "printed": 1519,
+    "chapter": 254
+   },
+   {
+    "true": 1518,
+    "printed": 1520,
+    "chapter": 254
+   },
+   {
+    "true": 1519,
+    "printed": 1521,
+    "chapter": 254
+   },
+   {
+    "true": 1520,
+    "printed": 1522,
+    "chapter": 254
+   },
+   {
+    "true": 1521,
+    "printed": 1523,
+    "chapter": 254
+   },
+   {
+    "true": 1522,
+    "printed": 1524,
+    "chapter": 254
+   },
+   {
+    "true": 1523,
+    "printed": 1525,
+    "chapter": 254
+   },
+   {
+    "true": 1524,
+    "printed": 1526,
+    "chapter": 254
+   },
+   {
+    "true": 1525,
+    "printed": 1527,
+    "chapter": 254
+   },
+   {
+    "true": 1526,
+    "printed": 1528,
+    "chapter": 255
+   },
+   {
+    "true": 1527,
+    "printed": 1529,
+    "chapter": 255
+   },
+   {
+    "true": 1528,
+    "printed": 1530,
+    "chapter": 255
+   },
+   {
+    "true": 1529,
+    "printed": 1531,
+    "chapter": 256
+   },
+   {
+    "true": 1530,
+    "printed": 1532,
+    "chapter": 256
+   },
+   {
+    "true": 1531,
+    "printed": 1533,
+    "chapter": 256
+   },
+   {
+    "true": 1532,
+    "printed": 1534,
+    "chapter": 256
+   },
+   {
+    "true": 1533,
+    "printed": 1535,
+    "chapter": 256
+   },
+   {
+    "true": 1534,
+    "printed": 1536,
+    "chapter": 257
+   },
+   {
+    "true": 1535,
+    "printed": 1537,
+    "chapter": 257
+   },
+   {
+    "true": 1536,
+    "printed": 1538,
+    "chapter": 257
+   },
+   {
+    "true": 1537,
+    "printed": 1539,
+    "chapter": 258
+   },
+   {
+    "true": 1538,
+    "printed": 1540,
+    "chapter": 259
+   },
+   {
+    "true": 1539,
+    "printed": 1541,
+    "chapter": 259
+   },
+   {
+    "true": 1540,
+    "printed": 1542,
+    "chapter": 260
+   },
+   {
+    "true": 1541,
+    "printed": 1543,
+    "chapter": 260
+   },
+   {
+    "true": 1542,
+    "printed": 1544,
+    "chapter": 260
+   },
+   {
+    "true": 1543,
+    "printed": 1545,
+    "chapter": 260
+   },
+   {
+    "true": 1544,
+    "printed": 1546,
+    "chapter": 260
+   },
+   {
+    "true": 1545,
+    "printed": 1547,
+    "chapter": 262
+   },
+   {
+    "true": 1546,
+    "printed": 1548,
+    "chapter": 262
+   },
+   {
+    "true": 1547,
+    "printed": 1549,
+    "chapter": 262
+   },
+   {
+    "true": 1548,
+    "printed": 1550,
+    "chapter": 263
+   },
+   {
+    "true": 1549,
+    "printed": 1551,
+    "chapter": 264
+   },
+   {
+    "true": 1550,
+    "printed": 1552,
+    "chapter": 264
+   },
+   {
+    "true": 1551,
+    "printed": 1553,
+    "chapter": 264
+   },
+   {
+    "true": 1552,
+    "printed": 1554,
+    "chapter": 264
+   },
+   {
+    "true": 1553,
+    "printed": 1555,
+    "chapter": 264
+   },
+   {
+    "true": 1554,
+    "printed": 1556,
+    "chapter": 264
+   },
+   {
+    "true": 1555,
+    "printed": 1557,
+    "chapter": 264
+   },
+   {
+    "true": 1556,
+    "printed": 1558,
+    "chapter": 264
+   },
+   {
+    "true": 1557,
+    "printed": 1559,
+    "chapter": 266
+   },
+   {
+    "true": 1558,
+    "printed": 1560,
+    "chapter": 266
+   },
+   {
+    "true": 1559,
+    "printed": 1561,
+    "chapter": 266
+   },
+   {
+    "true": 1560,
+    "printed": 1562,
+    "chapter": 266
+   },
+   {
+    "true": 1561,
+    "printed": 1563,
+    "chapter": 266
+   },
+   {
+    "true": 1562,
+    "printed": 1564,
+    "chapter": 267
+   },
+   {
+    "true": 1563,
+    "printed": 1565,
+    "chapter": 268
+   },
+   {
+    "true": 1564,
+    "printed": 1566,
+    "chapter": 268
+   },
+   {
+    "true": 1565,
+    "printed": 1567,
+    "chapter": 269
+   },
+   {
+    "true": 1566,
+    "printed": 1568,
+    "chapter": 269
+   },
+   {
+    "true": 1567,
+    "printed": 1569,
+    "chapter": 270
+   },
+   {
+    "true": 1568,
+    "printed": 1570,
+    "chapter": 271
+   },
+   {
+    "true": 1569,
+    "printed": 1571,
+    "chapter": 271
+   },
+   {
+    "true": 1570,
+    "printed": 1572,
+    "chapter": 271
+   },
+   {
+    "true": 1571,
+    "printed": 1573,
+    "chapter": 272
+   },
+   {
+    "true": 1572,
+    "printed": 1574,
+    "chapter": 273
+   },
+   {
+    "true": 1573,
+    "printed": 1575,
+    "chapter": 273
+   },
+   {
+    "true": 1574,
+    "printed": 1576,
+    "chapter": 273
+   },
+   {
+    "true": 1575,
+    "printed": 1577,
+    "chapter": 274
+   },
+   {
+    "true": 1576,
+    "printed": 1578,
+    "chapter": 275
+   },
+   {
+    "true": 1577,
+    "printed": 1579,
+    "chapter": 276
+   },
+   {
+    "true": 1578,
+    "printed": 1580,
+    "chapter": 276
+   },
+   {
+    "true": 1579,
+    "printed": 1581,
+    "chapter": 276
+   },
+   {
+    "true": 1580,
+    "printed": 1582,
+    "chapter": 276
+   },
+   {
+    "true": 1581,
+    "printed": 1583,
+    "chapter": 276
+   },
+   {
+    "true": 1582,
+    "printed": 1584,
+    "chapter": 277
+   },
+   {
+    "true": 1583,
+    "printed": 1585,
+    "chapter": 277
+   },
+   {
+    "true": 1584,
+    "printed": 1586,
+    "chapter": 277
+   },
+   {
+    "true": 1585,
+    "printed": 1587,
+    "chapter": 277
+   },
+   {
+    "true": 1586,
+    "printed": 1588,
+    "chapter": 278
+   },
+   {
+    "true": 1587,
+    "printed": 1589,
+    "chapter": 279
+   },
+   {
+    "true": 1588,
+    "printed": 1590,
+    "chapter": 279
+   },
+   {
+    "true": 1589,
+    "printed": 1591,
+    "chapter": 280
+   },
+   {
+    "true": 1590,
+    "printed": 1592,
+    "chapter": 280
+   },
+   {
+    "true": 1591,
+    "printed": 1593,
+    "chapter": 280
+   },
+   {
+    "true": 1592,
+    "printed": 1594,
+    "chapter": 280
+   },
+   {
+    "true": 1593,
+    "printed": 1595,
+    "chapter": 280
+   },
+   {
+    "true": 1594,
+    "printed": 1596,
+    "chapter": 280
+   },
+   {
+    "true": 1595,
+    "printed": 1597,
+    "chapter": 280
+   },
+   {
+    "true": 1596,
+    "printed": 1598,
+    "chapter": 281
+   },
+   {
+    "true": 1597,
+    "printed": 1599,
+    "chapter": 281
+   },
+   {
+    "true": 1598,
+    "printed": 1600,
+    "chapter": 282
+   },
+   {
+    "true": 1599,
+    "printed": 1601,
+    "chapter": 282
+   },
+   {
+    "true": 1600,
+    "printed": 1602,
+    "chapter": 282
+   },
+   {
+    "true": 1601,
+    "printed": 1603,
+    "chapter": 282
+   },
+   {
+    "true": 1602,
+    "printed": 1604,
+    "chapter": 282
+   },
+   {
+    "true": 1603,
+    "printed": 1605,
+    "chapter": 282
+   },
+   {
+    "true": 1604,
+    "printed": 1606,
+    "chapter": 282
+   },
+   {
+    "true": 1605,
+    "printed": 1607,
+    "chapter": 282
+   },
+   {
+    "true": 1606,
+    "printed": 1608,
+    "chapter": 282
+   },
+   {
+    "true": 1607,
+    "printed": 1609,
+    "chapter": 283
+   },
+   {
+    "true": 1608,
+    "printed": 1610,
+    "chapter": 283
+   },
+   {
+    "true": 1609,
+    "printed": 1611,
+    "chapter": 284
+   },
+   {
+    "true": 1610,
+    "printed": 612,
+    "chapter": 285
+   },
+   {
+    "true": 1611,
+    "printed": 13,
+    "chapter": 285
+   },
+   {
+    "true": 1612,
+    "printed": 1614,
+    "chapter": 286
+   },
+   {
+    "true": 1613,
+    "printed": 1615,
+    "chapter": 287
+   },
+   {
+    "true": 1614,
+    "printed": 1616,
+    "chapter": 288
+   },
+   {
+    "true": 1615,
+    "printed": 1617,
+    "chapter": 288
+   },
+   {
+    "true": 1616,
+    "printed": 1618,
+    "chapter": 288
+   },
+   {
+    "true": 1617,
+    "printed": 1619,
+    "chapter": 288
+   },
+   {
+    "true": 1618,
+    "printed": 1620,
+    "chapter": 288
+   },
+   {
+    "true": 1619,
+    "printed": 1621,
+    "chapter": 289
+   },
+   {
+    "true": 1620,
+    "printed": 1622,
+    "chapter": 290
+   },
+   {
+    "true": 1621,
+    "printed": 1623,
+    "chapter": 290
+   },
+   {
+    "true": 1622,
+    "printed": 1624,
+    "chapter": 290
+   },
+   {
+    "true": 1623,
+    "printed": 1625,
+    "chapter": 290
+   },
+   {
+    "true": 1624,
+    "printed": 1626,
+    "chapter": 290
+   },
+   {
+    "true": 1625,
+    "printed": 1627,
+    "chapter": 290
+   },
+   {
+    "true": 1626,
+    "printed": 1628,
+    "chapter": 291
+   },
+   {
+    "true": 1627,
+    "printed": 1629,
+    "chapter": 291
+   },
+   {
+    "true": 1628,
+    "printed": 1630,
+    "chapter": 291
+   },
+   {
+    "true": 1629,
+    "printed": 1631,
+    "chapter": 292
+   },
+   {
+    "true": 1630,
+    "printed": 1632,
+    "chapter": 292
+   },
+   {
+    "true": 1631,
+    "printed": 1633,
+    "chapter": 292
+   },
+   {
+    "true": 1632,
+    "printed": 1634,
+    "chapter": 293
+   },
+   {
+    "true": 1633,
+    "printed": 1635,
+    "chapter": 293
+   },
+   {
+    "true": 1634,
+    "printed": 1636,
+    "chapter": 293
+   },
+   {
+    "true": 1635,
+    "printed": 1637,
+    "chapter": 294
+   },
+   {
+    "true": 1636,
+    "printed": 1638,
+    "chapter": 295
+   },
+   {
+    "true": 1637,
+    "printed": 1639,
+    "chapter": 295
+   },
+   {
+    "true": 1638,
+    "printed": 1640,
+    "chapter": 295
+   },
+   {
+    "true": 1639,
+    "printed": 1641,
+    "chapter": 295
+   },
+   {
+    "true": 1640,
+    "printed": 1642,
+    "chapter": 296
+   },
+   {
+    "true": 1641,
+    "printed": 1643,
+    "chapter": 296
+   },
+   {
+    "true": 1642,
+    "printed": 1644,
+    "chapter": 296
+   },
+   {
+    "true": 1643,
+    "printed": 1645,
+    "chapter": 296
+   },
+   {
+    "true": 1644,
+    "printed": 1646,
+    "chapter": 297
+   },
+   {
+    "true": 1645,
+    "printed": 1647,
+    "chapter": 297
+   },
+   {
+    "true": 1646,
+    "printed": 1648,
+    "chapter": 298
+   },
+   {
+    "true": 1647,
+    "printed": 1649,
+    "chapter": 299
+   },
+   {
+    "true": 1648,
+    "printed": 1650,
+    "chapter": 299
+   },
+   {
+    "true": 1649,
+    "printed": 1651,
+    "chapter": 299
+   },
+   {
+    "true": 1650,
+    "printed": 1652,
+    "chapter": 300
+   },
+   {
+    "true": 1651,
+    "printed": 1653,
+    "chapter": 300
+   },
+   {
+    "true": 1652,
+    "printed": 1654,
+    "chapter": 300
+   },
+   {
+    "true": 1653,
+    "printed": 1655,
+    "chapter": 301
+   },
+   {
+    "true": 1654,
+    "printed": 1656,
+    "chapter": 301
+   },
+   {
+    "true": 1655,
+    "printed": 1657,
+    "chapter": 302
+   },
+   {
+    "true": 1656,
+    "printed": 1658,
+    "chapter": 302
+   },
+   {
+    "true": 1657,
+    "printed": 1659,
+    "chapter": 302
+   },
+   {
+    "true": 1658,
+    "printed": 1660,
+    "chapter": 302
+   },
+   {
+    "true": 1659,
+    "printed": 1661,
+    "chapter": 302
+   },
+   {
+    "true": 1660,
+    "printed": 1662,
+    "chapter": 302
+   },
+   {
+    "true": 1661,
+    "printed": 1663,
+    "chapter": 302
+   },
+   {
+    "true": 1662,
+    "printed": 1664,
+    "chapter": 302
+   },
+   {
+    "true": 1663,
+    "printed": 1665,
+    "chapter": 302
+   },
+   {
+    "true": 1664,
+    "printed": 1666,
+    "chapter": 302
+   },
+   {
+    "true": 1665,
+    "printed": 1667,
+    "chapter": 302
+   },
+   {
+    "true": 1666,
+    "printed": 1673,
+    "chapter": 302
+   },
+   {
+    "true": 1667,
+    "printed": 1668,
+    "chapter": 303
+   },
+   {
+    "true": 1668,
+    "printed": 1669,
+    "chapter": 303
+   },
+   {
+    "true": 1669,
+    "printed": 1670,
+    "chapter": 303
+   },
+   {
+    "true": 1670,
+    "printed": 1671,
+    "chapter": 303
+   },
+   {
+    "true": 1671,
+    "printed": 1672,
+    "chapter": 303
+   },
+   {
+    "true": 1672,
+    "printed": 1674,
+    "chapter": 304
+   },
+   {
+    "true": 1673,
+    "printed": 1675,
+    "chapter": 304
+   },
+   {
+    "true": 1674,
+    "printed": 1676,
+    "chapter": 304
+   },
+   {
+    "true": 1675,
+    "printed": 1677,
+    "chapter": 304
+   },
+   {
+    "true": 1676,
+    "printed": 1678,
+    "chapter": 305
+   },
+   {
+    "true": 1677,
+    "printed": 1679,
+    "chapter": 305
+   },
+   {
+    "true": 1678,
+    "printed": 1680,
+    "chapter": 305
+   },
+   {
+    "true": 1679,
+    "printed": 1681,
+    "chapter": 305
+   },
+   {
+    "true": 1680,
+    "printed": 1682,
+    "chapter": 305
+   },
+   {
+    "true": 1681,
+    "printed": 1683,
+    "chapter": 305
+   },
+   {
+    "true": 1682,
+    "printed": 1684,
+    "chapter": 305
+   },
+   {
+    "true": 1683,
+    "printed": 1685,
+    "chapter": 305
+   },
+   {
+    "true": 1684,
+    "printed": 1686,
+    "chapter": 305
+   },
+   {
+    "true": 1685,
+    "printed": 1687,
+    "chapter": 305
+   },
+   {
+    "true": 1686,
+    "printed": 1688,
+    "chapter": 306
+   },
+   {
+    "true": 1687,
+    "printed": 1689,
+    "chapter": 306
+   },
+   {
+    "true": 1688,
+    "printed": 1690,
+    "chapter": 307
+   },
+   {
+    "true": 1689,
+    "printed": 1691,
+    "chapter": 307
+   },
+   {
+    "true": 1690,
+    "printed": 1692,
+    "chapter": 308
+   },
+   {
+    "true": 1691,
+    "printed": 1693,
+    "chapter": 309
+   },
+   {
+    "true": 1692,
+    "printed": 1694,
+    "chapter": 309
+   },
+   {
+    "true": 1693,
+    "printed": 1695,
+    "chapter": 309
+   },
+   {
+    "true": 1694,
+    "printed": 1696,
+    "chapter": 310
+   },
+   {
+    "true": 1695,
+    "printed": 1967,
+    "chapter": 310
+   },
+   {
+    "true": 1696,
+    "printed": 1698,
+    "chapter": 310
+   },
+   {
+    "true": 1697,
+    "printed": 1699,
+    "chapter": 310
+   },
+   {
+    "true": 1698,
+    "printed": 1700,
+    "chapter": 310
+   },
+   {
+    "true": 1699,
+    "printed": 1701,
+    "chapter": 311
+   },
+   {
+    "true": 1700,
+    "printed": 1702,
+    "chapter": 311
+   },
+   {
+    "true": 1701,
+    "printed": 1703,
+    "chapter": 311
+   },
+   {
+    "true": 1702,
+    "printed": 1704,
+    "chapter": 311
+   },
+   {
+    "true": 1703,
+    "printed": 1705,
+    "chapter": 312
+   },
+   {
+    "true": 1704,
+    "printed": 1706,
+    "chapter": 313
+   },
+   {
+    "true": 1705,
+    "printed": 1707,
+    "chapter": 314
+   },
+   {
+    "true": 1706,
+    "printed": 1708,
+    "chapter": 314
+   },
+   {
+    "true": 1707,
+    "printed": 1709,
+    "chapter": 314
+   },
+   {
+    "true": 1708,
+    "printed": 1710,
+    "chapter": 314
+   },
+   {
+    "true": 1709,
+    "printed": 1711,
+    "chapter": 314
+   },
+   {
+    "true": 1710,
+    "printed": 1712,
+    "chapter": 315
+   },
+   {
+    "true": 1711,
+    "printed": 1713,
+    "chapter": 315
+   },
+   {
+    "true": 1712,
+    "printed": 1714,
+    "chapter": 315
+   },
+   {
+    "true": 1713,
+    "printed": 1715,
+    "chapter": 316
+   },
+   {
+    "true": 1714,
+    "printed": 1716,
+    "chapter": 316
+   },
+   {
+    "true": 1715,
+    "printed": 1717,
+    "chapter": 316
+   },
+   {
+    "true": 1716,
+    "printed": 1718,
+    "chapter": 316
+   },
+   {
+    "true": 1717,
+    "printed": 1719,
+    "chapter": 317
+   },
+   {
+    "true": 1718,
+    "printed": 1720,
+    "chapter": 318
+   },
+   {
+    "true": 1719,
+    "printed": 1721,
+    "chapter": 318
+   },
+   {
+    "true": 1720,
+    "printed": 1722,
+    "chapter": 319
+   },
+   {
+    "true": 1721,
+    "printed": 1723,
+    "chapter": 319
+   },
+   {
+    "true": 1722,
+    "printed": 1724,
+    "chapter": 320
+   },
+   {
+    "true": 1723,
+    "printed": 1725,
+    "chapter": 321
+   },
+   {
+    "true": 1724,
+    "printed": 1726,
+    "chapter": 322
+   },
+   {
+    "true": 1725,
+    "printed": 1727,
+    "chapter": 323
+   },
+   {
+    "true": 1726,
+    "printed": 1728,
+    "chapter": 323
+   },
+   {
+    "true": 1727,
+    "printed": 1729,
+    "chapter": 323
+   },
+   {
+    "true": 1728,
+    "printed": 1730,
+    "chapter": 324
+   },
+   {
+    "true": 1729,
+    "printed": 1731,
+    "chapter": 325
+   },
+   {
+    "true": 1730,
+    "printed": 1732,
+    "chapter": 326
+   },
+   {
+    "true": 1731,
+    "printed": 1733,
+    "chapter": 326
+   },
+   {
+    "true": 1732,
+    "printed": 1734,
+    "chapter": 327
+   },
+   {
+    "true": 1733,
+    "printed": 1735,
+    "chapter": 327
+   },
+   {
+    "true": 1734,
+    "printed": 1736,
+    "chapter": 328
+   },
+   {
+    "true": 1735,
+    "printed": 1737,
+    "chapter": 328
+   },
+   {
+    "true": 1736,
+    "printed": 1738,
+    "chapter": 328
+   },
+   {
+    "true": 1737,
+    "printed": 1739,
+    "chapter": 329
+   },
+   {
+    "true": 1738,
+    "printed": 1740,
+    "chapter": 330
+   },
+   {
+    "true": 1739,
+    "printed": 1741,
+    "chapter": 330
+   },
+   {
+    "true": 1740,
+    "printed": 1742,
+    "chapter": 331
+   },
+   {
+    "true": 1741,
+    "printed": 1743,
+    "chapter": 332
+   },
+   {
+    "true": 1742,
+    "printed": 1744,
+    "chapter": 332
+   },
+   {
+    "true": 1743,
+    "printed": 1745,
+    "chapter": 333
+   },
+   {
+    "true": 1744,
+    "printed": 1746,
+    "chapter": 334
+   },
+   {
+    "true": 1745,
+    "printed": 1747,
+    "chapter": 334
+   },
+   {
+    "true": 1746,
+    "printed": 1748,
+    "chapter": 334
+   },
+   {
+    "true": 1747,
+    "printed": 1750,
+    "chapter": 336
+   },
+   {
+    "true": 1748,
+    "printed": 1751,
+    "chapter": 337
+   },
+   {
+    "true": 1749,
+    "printed": 1752,
+    "chapter": 338
+   },
+   {
+    "true": 1750,
+    "printed": 1753,
+    "chapter": 339
+   },
+   {
+    "true": 1751,
+    "printed": 1754,
+    "chapter": 340
+   },
+   {
+    "true": 1752,
+    "printed": 1755,
+    "chapter": 341
+   },
+   {
+    "true": 1753,
+    "printed": 1756,
+    "chapter": 341
+   },
+   {
+    "true": 1754,
+    "printed": 1757,
+    "chapter": 342
+   },
+   {
+    "true": 1755,
+    "printed": 1758,
+    "chapter": 343
+   },
+   {
+    "true": 1756,
+    "printed": 1759,
+    "chapter": 344
+   },
+   {
+    "true": 1757,
+    "printed": 1760,
+    "chapter": 345
+   },
+   {
+    "true": 1758,
+    "printed": 1761,
+    "chapter": 345
+   },
+   {
+    "true": 1759,
+    "printed": 1762,
+    "chapter": 345
+   },
+   {
+    "true": 1760,
+    "printed": 1763,
+    "chapter": 345
+   },
+   {
+    "true": 1761,
+    "printed": 1764,
+    "chapter": 346
+   },
+   {
+    "true": 1762,
+    "printed": 1765,
+    "chapter": 346
+   },
+   {
+    "true": 1763,
+    "printed": 1766,
+    "chapter": 347
+   },
+   {
+    "true": 1764,
+    "printed": 1767,
+    "chapter": 348
+   },
+   {
+    "true": 1765,
+    "printed": 1768,
+    "chapter": 349
+   },
+   {
+    "true": 1766,
+    "printed": 1769,
+    "chapter": 349
+   },
+   {
+    "true": 1767,
+    "printed": 1770,
+    "chapter": 350
+   },
+   {
+    "true": 1768,
+    "printed": 1771,
+    "chapter": 351
+   },
+   {
+    "true": 1769,
+    "printed": 1772,
+    "chapter": 352
+   },
+   {
+    "true": 1770,
+    "printed": 1773,
+    "chapter": 353
+   },
+   {
+    "true": 1771,
+    "printed": 1774,
+    "chapter": 354
+   },
+   {
+    "true": 1772,
+    "printed": 1775,
+    "chapter": 355
+   },
+   {
+    "true": 1773,
+    "printed": 1776,
+    "chapter": 355
+   },
+   {
+    "true": 1774,
+    "printed": 1777,
+    "chapter": 355
+   },
+   {
+    "true": 1775,
+    "printed": 1778,
+    "chapter": 355
+   },
+   {
+    "true": 1776,
+    "printed": 1779,
+    "chapter": 355
+   },
+   {
+    "true": 1777,
+    "printed": 1780,
+    "chapter": 355
+   },
+   {
+    "true": 1778,
+    "printed": 1781,
+    "chapter": 356
+   },
+   {
+    "true": 1779,
+    "printed": 1782,
+    "chapter": 356
+   },
+   {
+    "true": 1780,
+    "printed": 1783,
+    "chapter": 357
+   },
+   {
+    "true": 1781,
+    "printed": 1784,
+    "chapter": 357
+   },
+   {
+    "true": 1782,
+    "printed": 1785,
+    "chapter": 358
+   },
+   {
+    "true": 1783,
+    "printed": 1786,
+    "chapter": 359
+   },
+   {
+    "true": 1784,
+    "printed": 1787,
+    "chapter": 359
+   },
+   {
+    "true": 1785,
+    "printed": 1788,
+    "chapter": 360
+   },
+   {
+    "true": 1786,
+    "printed": 1789,
+    "chapter": 360
+   },
+   {
+    "true": 1787,
+    "printed": 1790,
+    "chapter": 360
+   },
+   {
+    "true": 1788,
+    "printed": 1791,
+    "chapter": 361
+   },
+   {
+    "true": 1789,
+    "printed": 1792,
+    "chapter": 361
+   },
+   {
+    "true": 1790,
+    "printed": 1793,
+    "chapter": 362
+   },
+   {
+    "true": 1791,
+    "printed": 1794,
+    "chapter": 363
+   },
+   {
+    "true": 1792,
+    "printed": 1795,
+    "chapter": 364
+   },
+   {
+    "true": 1793,
+    "printed": 1796,
+    "chapter": 364
+   },
+   {
+    "true": 1794,
+    "printed": 1797,
+    "chapter": 364
+   },
+   {
+    "true": 1795,
+    "printed": 1798,
+    "chapter": 365
+   },
+   {
+    "true": 1796,
+    "printed": 1799,
+    "chapter": 365
+   },
+   {
+    "true": 1797,
+    "printed": 1800,
+    "chapter": 366
+   },
+   {
+    "true": 1798,
+    "printed": 1801,
+    "chapter": 366
+   },
+   {
+    "true": 1799,
+    "printed": 1802,
+    "chapter": 367
+   },
+   {
+    "true": 1800,
+    "printed": 1803,
+    "chapter": 367
+   },
+   {
+    "true": 1801,
+    "printed": 1804,
+    "chapter": 367
+   },
+   {
+    "true": 1802,
+    "printed": 1805,
+    "chapter": 367
+   },
+   {
+    "true": 1803,
+    "printed": 1806,
+    "chapter": 368
+   },
+   {
+    "true": 1804,
+    "printed": 1807,
+    "chapter": 369
+   },
+   {
+    "true": 1805,
+    "printed": 1808,
+    "chapter": 370
+   },
+   {
+    "true": 1806,
+    "printed": 1809,
+    "chapter": 370
+   },
+   {
+    "true": 1807,
+    "printed": 1810,
+    "chapter": 370
+   },
+   {
+    "true": 1808,
+    "printed": 1811,
+    "chapter": 370
+   },
+   {
+    "true": 1809,
+    "printed": 1812,
+    "chapter": 370
+   },
+   {
+    "true": 1810,
+    "printed": 1813,
+    "chapter": 370
+   },
+   {
+    "true": 1811,
+    "printed": 1814,
+    "chapter": 370
+   },
+   {
+    "true": 1812,
+    "printed": 1815,
+    "chapter": 370
+   },
+   {
+    "true": 1813,
+    "printed": 1816,
+    "chapter": 370
+   },
+   {
+    "true": 1814,
+    "printed": 1817,
+    "chapter": 370
+   },
+   {
+    "true": 1815,
+    "printed": 1818,
+    "chapter": 370
+   },
+   {
+    "true": 1816,
+    "printed": 1819,
+    "chapter": 370
+   },
+   {
+    "true": 1817,
+    "printed": 1820,
+    "chapter": 370
+   },
+   {
+    "true": 1818,
+    "printed": 1821,
+    "chapter": 370
+   },
+   {
+    "true": 1819,
+    "printed": 1822,
+    "chapter": 370
+   },
+   {
+    "true": 1820,
+    "printed": 1823,
+    "chapter": 370
+   },
+   {
+    "true": 1821,
+    "printed": 1824,
+    "chapter": 370
+   },
+   {
+    "true": 1822,
+    "printed": 1825,
+    "chapter": 370
+   },
+   {
+    "true": 1823,
+    "printed": 1826,
+    "chapter": 370
+   },
+   {
+    "true": 1824,
+    "printed": 1827,
+    "chapter": 370
+   },
+   {
+    "true": 1825,
+    "printed": 1828,
+    "chapter": 370
+   },
+   {
+    "true": 1826,
+    "printed": 1829,
+    "chapter": 370
+   },
+   {
+    "true": 1827,
+    "printed": 1830,
+    "chapter": 370
+   },
+   {
+    "true": 1828,
+    "printed": 1831,
+    "chapter": 370
+   },
+   {
+    "true": 1829,
+    "printed": 1832,
+    "chapter": 370
+   },
+   {
+    "true": 1830,
+    "printed": 1833,
+    "chapter": 370
+   },
+   {
+    "true": 1831,
+    "printed": 1834,
+    "chapter": 370
+   },
+   {
+    "true": 1832,
+    "printed": 1835,
+    "chapter": 370
+   },
+   {
+    "true": 1833,
+    "printed": 1836,
+    "chapter": 370
+   },
+   {
+    "true": 1834,
+    "printed": 1837,
+    "chapter": 370
+   },
+   {
+    "true": 1835,
+    "printed": 1838,
+    "chapter": 370
+   },
+   {
+    "true": 1836,
+    "printed": 1839,
+    "chapter": 370
+   },
+   {
+    "true": 1837,
+    "printed": 1840,
+    "chapter": 370
+   },
+   {
+    "true": 1838,
+    "printed": 1841,
+    "chapter": 370
+   },
+   {
+    "true": 1839,
+    "printed": 1842,
+    "chapter": 370
+   },
+   {
+    "true": 1840,
+    "printed": 1843,
+    "chapter": 370
+   },
+   {
+    "true": 1841,
+    "printed": 1844,
+    "chapter": 370
+   },
+   {
+    "true": 1842,
+    "printed": 1845,
+    "chapter": 370
+   },
+   {
+    "true": 1843,
+    "printed": 1846,
+    "chapter": 370
+   },
+   {
+    "true": 1844,
+    "printed": 1847,
+    "chapter": 370
+   },
+   {
+    "true": 1845,
+    "printed": 1848,
+    "chapter": 370
+   },
+   {
+    "true": 1846,
+    "printed": 1849,
+    "chapter": 370
+   },
+   {
+    "true": 1847,
+    "printed": 1850,
+    "chapter": 370
+   },
+   {
+    "true": 1848,
+    "printed": 1851,
+    "chapter": 370
+   },
+   {
+    "true": 1849,
+    "printed": 1852,
+    "chapter": 370
+   },
+   {
+    "true": 1850,
+    "printed": 1853,
+    "chapter": 370
+   },
+   {
+    "true": 1851,
+    "printed": 1854,
+    "chapter": 370
+   },
+   {
+    "true": 1852,
+    "printed": 1855,
+    "chapter": 370
+   },
+   {
+    "true": 1853,
+    "printed": 1856,
+    "chapter": 370
+   },
+   {
+    "true": 1854,
+    "printed": 1857,
+    "chapter": 370
+   },
+   {
+    "true": 1855,
+    "printed": 1858,
+    "chapter": 370
+   },
+   {
+    "true": 1856,
+    "printed": 1859,
+    "chapter": 370
+   },
+   {
+    "true": 1857,
+    "printed": 1860,
+    "chapter": 370
+   },
+   {
+    "true": 1858,
+    "printed": 1861,
+    "chapter": 370
+   },
+   {
+    "true": 1859,
+    "printed": 1862,
+    "chapter": 370
+   },
+   {
+    "true": 1860,
+    "printed": 1863,
+    "chapter": 370
+   },
+   {
+    "true": 1861,
+    "printed": 1864,
+    "chapter": 370
+   },
+   {
+    "true": 1862,
+    "printed": 1865,
+    "chapter": 370
+   },
+   {
+    "true": 1863,
+    "printed": 1866,
+    "chapter": 370
+   },
+   {
+    "true": 1864,
+    "printed": 1867,
+    "chapter": 370
+   },
+   {
+    "true": 1865,
+    "printed": 1868,
+    "chapter": 370
+   },
+   {
+    "true": 1866,
+    "printed": 1869,
+    "chapter": 371
+   },
+   {
+    "true": 1867,
+    "printed": 1870,
+    "chapter": 371
+   },
+   {
+    "true": 1868,
+    "printed": 1871,
+    "chapter": 371
+   },
+   {
+    "true": 1869,
+    "printed": 1872,
+    "chapter": 371
+   },
+   {
+    "true": 1870,
+    "printed": 1873,
+    "chapter": 371
+   },
+   {
+    "true": 1871,
+    "printed": 1874,
+    "chapter": 371
+   },
+   {
+    "true": 1872,
+    "printed": 1875,
+    "chapter": 371
+   },
+   {
+    "true": 1873,
+    "printed": 1876,
+    "chapter": 371
+   },
+   {
+    "true": 1874,
+    "printed": 1877,
+    "chapter": 371
+   },
+   {
+    "true": 1875,
+    "printed": 1878,
+    "chapter": 371
+   },
+   {
+    "true": 1876,
+    "printed": 1879,
+    "chapter": 371
+   },
+   {
+    "true": 1877,
+    "printed": 1880,
+    "chapter": 372
+   },
+   {
+    "true": 1878,
+    "printed": 1881,
+    "chapter": 372
+   },
+   {
+    "true": 1879,
+    "printed": 1882,
+    "chapter": 372
+   },
+   {
+    "true": 1880,
+    "printed": 1883,
+    "chapter": 372
+   },
+   {
+    "true": 1881,
+    "printed": 1884,
+    "chapter": 372
+   },
+   {
+    "true": 1882,
+    "printed": 1885,
+    "chapter": 372
+   },
+   {
+    "true": 1883,
+    "printed": 1886,
+    "chapter": 372
+   },
+   {
+    "true": 1884,
+    "printed": 1887,
+    "chapter": 372
+   },
+   {
+    "true": 1885,
+    "printed": 1888,
+    "chapter": 372
+   },
+   {
+    "true": 1886,
+    "printed": 1889,
+    "chapter": 372
+   },
+   {
+    "true": 1887,
+    "printed": 1890,
+    "chapter": 372
+   },
+   {
+    "true": 1888,
+    "printed": 1891,
+    "chapter": 372
+   },
+   {
+    "true": 1889,
+    "printed": 1892,
+    "chapter": 372
+   },
+   {
+    "true": 1890,
+    "printed": 1893,
+    "chapter": 372
+   },
+   {
+    "true": 1891,
+    "printed": 1894,
+    "chapter": 372
+   },
+   {
+    "true": 1892,
+    "printed": 1895,
+    "chapter": 372
+   },
+   {
+    "true": 1893,
+    "printed": 1896,
+    "chapter": 372
+   }
+  ],
+  "chapter_repairs": [
+   {
+    "chapter": 335,
+    "reason": "unnumbered heading matched to Fahl title",
+    "line": "باب تحريم امتناع المرأة من فراش زوجها إِذَا دعاها ولم يكن لَهَا عذر شرعي"
+   }
+  ],
+  "book_headings_skipped": [
+   "كتَاب الأدَب",
+   "كتاب أدب الطعام",
+   "كتَاب اللّبَاس",
+   "كتاب آداب النوم",
+   "كتَاب السَّلَام",
+   "كتاب عيادة المريض وتشييع الميت",
+   "كتاب عيَادة المريض وَتشييع المَيّت، والصّلاة عليه، وَحضور دَ",
+   "كتَاب آداب السَّفَر",
+   "كتَاب الفَضَائِل",
+   "كتاب الاعتكاف",
+   "كتَاب الحَجّ",
+   "كتاب الجهاد",
+   "كتابُ العِلم",
+   "كتابُ حمد الله تعالى وشكره",
+   "كتابُ الصَّلاة عَلَى رَسُول الله صلى الله عليه وسلم",
+   "كتاب الأذْكَار",
+   "كتاب الدعوات",
+   "كتَاب الأمُور المَنهي عَنْهَا",
+   "كتاب المنثورات والملح"
+  ],
+  "chapter_blocks_in_doc_order": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40,
+   41,
+   42,
+   43,
+   44,
+   45,
+   46,
+   47,
+   48,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70,
+   71,
+   72,
+   73,
+   74,
+   75,
+   76,
+   77,
+   78,
+   79,
+   80,
+   81,
+   82,
+   83,
+   49,
+   50,
+   51,
+   52,
+   53,
+   54,
+   55,
+   56,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   84,
+   85,
+   86,
+   87,
+   88,
+   89,
+   90,
+   91,
+   92,
+   93,
+   94,
+   95,
+   96,
+   97,
+   98,
+   99,
+   100,
+   101,
+   102,
+   103,
+   104,
+   105,
+   106,
+   107,
+   108,
+   109,
+   110,
+   111,
+   112,
+   113,
+   114,
+   115,
+   116,
+   117,
+   118,
+   119,
+   120,
+   121,
+   122,
+   123,
+   124,
+   125,
+   126,
+   127,
+   128,
+   129,
+   130,
+   131,
+   132,
+   133,
+   134,
+   135,
+   136,
+   137,
+   138,
+   139,
+   140,
+   141,
+   142,
+   143,
+   144,
+   145,
+   146,
+   147,
+   148,
+   149,
+   150,
+   151,
+   152,
+   153,
+   154,
+   155,
+   156,
+   157,
+   158,
+   159,
+   160,
+   161,
+   162,
+   163,
+   164,
+   165,
+   166,
+   167,
+   168,
+   169,
+   170,
+   171,
+   172,
+   173,
+   174,
+   175,
+   176,
+   177,
+   178,
+   179,
+   180,
+   181,
+   182,
+   183,
+   184,
+   185,
+   186,
+   187,
+   188,
+   189,
+   190,
+   191,
+   192,
+   193,
+   194,
+   195,
+   196,
+   197,
+   198,
+   199,
+   200,
+   201,
+   202,
+   203,
+   204,
+   205,
+   206,
+   207,
+   208,
+   209,
+   210,
+   211,
+   212,
+   213,
+   214,
+   215,
+   216,
+   217,
+   218,
+   219,
+   220,
+   221,
+   222,
+   223,
+   224,
+   225,
+   226,
+   227,
+   228,
+   229,
+   230,
+   231,
+   232,
+   233,
+   234,
+   235,
+   236,
+   237,
+   238,
+   239,
+   240,
+   241,
+   242,
+   243,
+   244,
+   245,
+   246,
+   247,
+   248,
+   249,
+   250,
+   251,
+   252,
+   253,
+   254,
+   255,
+   256,
+   257,
+   258,
+   259,
+   260,
+   261,
+   262,
+   263,
+   264,
+   265,
+   266,
+   267,
+   268,
+   269,
+   270,
+   271,
+   272,
+   273,
+   274,
+   275,
+   276,
+   277,
+   278,
+   279,
+   280,
+   281,
+   282,
+   283,
+   284,
+   285,
+   286,
+   287,
+   288,
+   289,
+   290,
+   291,
+   292,
+   293,
+   294,
+   295,
+   296,
+   297,
+   298,
+   299,
+   300,
+   301,
+   302,
+   303,
+   304,
+   305,
+   306,
+   307,
+   308,
+   309,
+   310,
+   311,
+   312,
+   313,
+   314,
+   315,
+   316,
+   317,
+   318,
+   319,
+   320,
+   321,
+   322,
+   323,
+   324,
+   325,
+   326,
+   327,
+   328,
+   329,
+   330,
+   331,
+   332,
+   333,
+   334,
+   335,
+   336,
+   337,
+   338,
+   339,
+   340,
+   341,
+   342,
+   343,
+   344,
+   345,
+   346,
+   347,
+   348,
+   349,
+   350,
+   351,
+   352,
+   353,
+   354,
+   355,
+   356,
+   357,
+   358,
+   359,
+   360,
+   361,
+   362,
+   363,
+   364,
+   365,
+   366,
+   367,
+   368,
+   369,
+   370,
+   371,
+   372
+  ],
+  "chapter_order_breaks": [
+   [
+    48,
+    64
+   ],
+   [
+    83,
+    49
+   ],
+   [
+    63,
+    84
+   ]
+  ],
+  "chapters_found": 372,
+  "hadiths_found": 1893
+ }
+}

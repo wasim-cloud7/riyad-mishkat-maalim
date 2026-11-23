@@ -1,0 +1,755 @@
+{
+ "grading": {
+  "Albani": {
+   "SAHIH_label": 1239,
+   "SAHIH_inferred": 374,
+   "HASAN": 51,
+   "DAIF": 67,
+   "OTHER": 5,
+   "UNGRADED": 160,
+   "SAHIH_total": 1613
+  },
+  "Arna'ut": {
+   "SAHIH_label": 0,
+   "SAHIH_inferred": 1490,
+   "HASAN": 0,
+   "DAIF": 0,
+   "OTHER": 0,
+   "UNGRADED": 406,
+   "SAHIH_total": 1490
+  },
+  "Combined": {
+   "SAHIH_label": 1239,
+   "SAHIH_inferred": 376,
+   "HASAN": 51,
+   "DAIF": 66,
+   "OTHER": 4,
+   "UNGRADED": 160,
+   "SAHIH_total": 1615
+  }
+ },
+ "albani_families": {
+  "SAHIHAYN": 535,
+  "SAHIHAYN_INFERRED": 374,
+  "SAHIH": 703,
+  "UNGRADED": 160,
+  "HASAN": 39,
+  "DAIF": 67,
+  "JAYYID": 7,
+  "HASAN_LIGHAYRIHI": 3,
+  "HASAN_SAHIH": 2,
+  "OTHER": 2,
+  "MIXED": 1,
+  "SHADH": 2,
+  "SAHIH_LIGHAYRIHI": 1
+ },
+ "combined_families": {
+  "SAHIHAYN": 535,
+  "SAHIHAYN_INFERRED": 376,
+  "SAHIH": 703,
+  "UNGRADED": 160,
+  "HASAN": 39,
+  "DAIF": 66,
+  "JAYYID": 7,
+  "HASAN_LIGHAYRIHI": 3,
+  "HASAN_SAHIH": 2,
+  "OTHER": 2,
+  "SHADH": 2,
+  "SAHIH_LIGHAYRIHI": 1
+ },
+ "albani_rungs": {
+  "A3_Albani_Mishkat_label": 1276,
+  "A1_Sahihayn_inferred": 374,
+  "A0_no_evidence": 160,
+  "A2_Albani_Riyad_file": 86
+ },
+ "strict_sahih_combined": 1614,
+ "source_classes": {
+  "ALL": {
+   "total": 1896,
+   "1_in_Bukhari_and_Muslim(either)": 1498,
+   "2_outside_Bukhari_and_Muslim": 398,
+   "3_in_siha_sitta": 1889,
+   "4_outside_siha_sitta": 7,
+   "5_in_Musnad_Ahmad_only(outside six)": 1,
+   "6_outside_six_and_outside_Ahmad": 6,
+   "7_in_Muwatta_only(outside six, outside Ahmad)": 2,
+   "8_outside_six_Ahmad_and_Muwatta": 4,
+   "extra_in_six_but_not_BM": 391
+  },
+  "SAHIH": {
+   "total": 1615,
+   "1_in_Bukhari_and_Muslim(either)": 1495,
+   "2_outside_Bukhari_and_Muslim": 120,
+   "3_in_siha_sitta": 1614,
+   "4_outside_siha_sitta": 1,
+   "5_in_Musnad_Ahmad_only(outside six)": 0,
+   "6_outside_six_and_outside_Ahmad": 1,
+   "7_in_Muwatta_only(outside six, outside Ahmad)": 1,
+   "8_outside_six_Ahmad_and_Muwatta": 0,
+   "extra_in_six_but_not_BM": 119
+  },
+  "HASAN": {
+   "total": 51,
+   "1_in_Bukhari_and_Muslim(either)": 0,
+   "2_outside_Bukhari_and_Muslim": 51,
+   "3_in_siha_sitta": 51,
+   "4_outside_siha_sitta": 0,
+   "5_in_Musnad_Ahmad_only(outside six)": 0,
+   "6_outside_six_and_outside_Ahmad": 0,
+   "7_in_Muwatta_only(outside six, outside Ahmad)": 0,
+   "8_outside_six_Ahmad_and_Muwatta": 0,
+   "extra_in_six_but_not_BM": 51
+  },
+  "DAIF": {
+   "total": 66,
+   "1_in_Bukhari_and_Muslim(either)": 1,
+   "2_outside_Bukhari_and_Muslim": 65,
+   "3_in_siha_sitta": 64,
+   "4_outside_siha_sitta": 2,
+   "5_in_Musnad_Ahmad_only(outside six)": 0,
+   "6_outside_six_and_outside_Ahmad": 2,
+   "7_in_Muwatta_only(outside six, outside Ahmad)": 0,
+   "8_outside_six_Ahmad_and_Muwatta": 2,
+   "extra_in_six_but_not_BM": 63
+  },
+  "OTHER": {
+   "total": 4,
+   "1_in_Bukhari_and_Muslim(either)": 0,
+   "2_outside_Bukhari_and_Muslim": 4,
+   "3_in_siha_sitta": 4,
+   "4_outside_siha_sitta": 0,
+   "5_in_Musnad_Ahmad_only(outside six)": 0,
+   "6_outside_six_and_outside_Ahmad": 0,
+   "7_in_Muwatta_only(outside six, outside Ahmad)": 0,
+   "8_outside_six_Ahmad_and_Muwatta": 0,
+   "extra_in_six_but_not_BM": 4
+  },
+  "UNGRADED": {
+   "total": 160,
+   "1_in_Bukhari_and_Muslim(either)": 2,
+   "2_outside_Bukhari_and_Muslim": 158,
+   "3_in_siha_sitta": 156,
+   "4_outside_siha_sitta": 4,
+   "5_in_Musnad_Ahmad_only(outside six)": 1,
+   "6_outside_six_and_outside_Ahmad": 3,
+   "7_in_Muwatta_only(outside six, outside Ahmad)": 1,
+   "8_outside_six_Ahmad_and_Muwatta": 2,
+   "extra_in_six_but_not_BM": 154
+  }
+ },
+ "BM_split": {
+  "both_B_and_M": 779,
+  "Bukhari_only": 210,
+  "Muslim_only": 509
+ },
+ "book_counts_any_mention": {
+  "B": 989,
+  "M": 1288,
+  "J": 124,
+  "T": 286,
+  "N": 101,
+  "OTH": 12,
+  "D": 242,
+  "MAL": 8,
+  "A": 71,
+  "DAR": 50,
+  "BAY": 21,
+  "HAK": 16,
+  "TAB": 3,
+  "KHZ": 2,
+  "HIB": 1,
+  "DQ": 1
+ },
+ "coverage": {
+  "ALL": {
+   "n": 1896,
+   "Mishkat": {
+    "IN": 1597,
+    "OUT": 133,
+    "UNRES": 166,
+    "confirmed": 1446,
+    "probable": 151,
+    "uncertain": 63,
+    "diff_companion": 103,
+    "not_in": 133
+   },
+   "Ma'alim": {
+    "IN": 1263,
+    "OUT": 481,
+    "UNRES": 152,
+    "confirmed": 1226,
+    "probable": 37,
+    "uncertain": 59,
+    "diff_companion": 93,
+    "not_in": 481
+   },
+   "cells": {
+    "M:IN|A:IN": 1132,
+    "M:IN|A:OUT": 369,
+    "M:IN|A:UNRES": 96,
+    "M:OUT|A:IN": 54,
+    "M:OUT|A:OUT": 74,
+    "M:OUT|A:UNRES": 5,
+    "M:UNRES|A:IN": 77,
+    "M:UNRES|A:OUT": 38,
+    "M:UNRES|A:UNRES": 51
+   }
+  },
+  "SAHIH": {
+   "n": 1615,
+   "Mishkat": {
+    "IN": 1364,
+    "OUT": 111,
+    "UNRES": 140,
+    "confirmed": 1240,
+    "probable": 124,
+    "uncertain": 60,
+    "diff_companion": 80,
+    "not_in": 111
+   },
+   "Ma'alim": {
+    "IN": 1156,
+    "OUT": 335,
+    "UNRES": 124,
+    "confirmed": 1126,
+    "probable": 30,
+    "uncertain": 47,
+    "diff_companion": 77,
+    "not_in": 335
+   },
+   "cells": {
+    "M:IN|A:IN": 1038,
+    "M:IN|A:OUT": 250,
+    "M:IN|A:UNRES": 76,
+    "M:OUT|A:IN": 49,
+    "M:OUT|A:OUT": 57,
+    "M:OUT|A:UNRES": 5,
+    "M:UNRES|A:IN": 69,
+    "M:UNRES|A:OUT": 28,
+    "M:UNRES|A:UNRES": 43
+   }
+  },
+  "HASAN": {
+   "n": 51,
+   "Mishkat": {
+    "IN": 50,
+    "OUT": 1,
+    "UNRES": 0,
+    "confirmed": 50,
+    "probable": 0,
+    "uncertain": 0,
+    "diff_companion": 0,
+    "not_in": 1
+   },
+   "Ma'alim": {
+    "IN": 27,
+    "OUT": 22,
+    "UNRES": 2,
+    "confirmed": 26,
+    "probable": 1,
+    "uncertain": 1,
+    "diff_companion": 1,
+    "not_in": 22
+   },
+   "cells": {
+    "M:IN|A:IN": 27,
+    "M:IN|A:OUT": 21,
+    "M:IN|A:UNRES": 2,
+    "M:OUT|A:OUT": 1
+   }
+  },
+  "DAIF": {
+   "n": 66,
+   "Mishkat": {
+    "IN": 64,
+    "OUT": 1,
+    "UNRES": 1,
+    "confirmed": 61,
+    "probable": 3,
+    "uncertain": 0,
+    "diff_companion": 1,
+    "not_in": 1
+   },
+   "Ma'alim": {
+    "IN": 6,
+    "OUT": 51,
+    "UNRES": 9,
+    "confirmed": 5,
+    "probable": 1,
+    "uncertain": 6,
+    "diff_companion": 3,
+    "not_in": 51
+   },
+   "cells": {
+    "M:IN|A:IN": 6,
+    "M:IN|A:OUT": 49,
+    "M:IN|A:UNRES": 9,
+    "M:OUT|A:OUT": 1,
+    "M:UNRES|A:OUT": 1
+   }
+  },
+  "OTHER": {
+   "n": 4,
+   "Mishkat": {
+    "IN": 4,
+    "OUT": 0,
+    "UNRES": 0,
+    "confirmed": 4,
+    "probable": 0,
+    "uncertain": 0,
+    "diff_companion": 0,
+    "not_in": 0
+   },
+   "Ma'alim": {
+    "IN": 0,
+    "OUT": 3,
+    "UNRES": 1,
+    "confirmed": 0,
+    "probable": 0,
+    "uncertain": 0,
+    "diff_companion": 1,
+    "not_in": 3
+   },
+   "cells": {
+    "M:IN|A:OUT": 3,
+    "M:IN|A:UNRES": 1
+   }
+  },
+  "UNGRADED": {
+   "n": 160,
+   "Mishkat": {
+    "IN": 115,
+    "OUT": 20,
+    "UNRES": 25,
+    "confirmed": 91,
+    "probable": 24,
+    "uncertain": 3,
+    "diff_companion": 22,
+    "not_in": 20
+   },
+   "Ma'alim": {
+    "IN": 74,
+    "OUT": 70,
+    "UNRES": 16,
+    "confirmed": 69,
+    "probable": 5,
+    "uncertain": 5,
+    "diff_companion": 11,
+    "not_in": 70
+   },
+   "cells": {
+    "M:IN|A:IN": 61,
+    "M:IN|A:OUT": 46,
+    "M:IN|A:UNRES": 8,
+    "M:OUT|A:IN": 5,
+    "M:OUT|A:OUT": 15,
+    "M:UNRES|A:IN": 8,
+    "M:UNRES|A:OUT": 9,
+    "M:UNRES|A:UNRES": 8
+   }
+  },
+  "SAHIH_STRICT": {
+   "n": 1614,
+   "Mishkat": {
+    "IN": 1364,
+    "OUT": 111,
+    "UNRES": 139,
+    "confirmed": 1240,
+    "probable": 124,
+    "uncertain": 60,
+    "diff_companion": 79,
+    "not_in": 111
+   },
+   "Ma'alim": {
+    "IN": 1156,
+    "OUT": 334,
+    "UNRES": 124,
+    "confirmed": 1126,
+    "probable": 30,
+    "uncertain": 47,
+    "diff_companion": 77,
+    "not_in": 334
+   },
+   "cells": {
+    "M:IN|A:IN": 1038,
+    "M:IN|A:OUT": 250,
+    "M:IN|A:UNRES": 76,
+    "M:OUT|A:IN": 49,
+    "M:OUT|A:OUT": 57,
+    "M:OUT|A:UNRES": 5,
+    "M:UNRES|A:IN": 69,
+    "M:UNRES|A:OUT": 27,
+    "M:UNRES|A:UNRES": 43
+   }
+  },
+  "SAHIH_in_BM": {
+   "n": 1495,
+   "Mishkat": {
+    "IN": 1248,
+    "OUT": 111,
+    "UNRES": 136,
+    "confirmed": 1125,
+    "probable": 123,
+    "uncertain": 59,
+    "diff_companion": 77,
+    "not_in": 111
+   },
+   "Ma'alim": {
+    "IN": 1094,
+    "OUT": 284,
+    "UNRES": 117,
+    "confirmed": 1066,
+    "probable": 28,
+    "uncertain": 45,
+    "diff_companion": 72,
+    "not_in": 284
+   },
+   "cells": {
+    "M:IN|A:IN": 976,
+    "M:IN|A:OUT": 203,
+    "M:IN|A:UNRES": 69,
+    "M:OUT|A:IN": 49,
+    "M:OUT|A:OUT": 57,
+    "M:OUT|A:UNRES": 5,
+    "M:UNRES|A:IN": 69,
+    "M:UNRES|A:OUT": 24,
+    "M:UNRES|A:UNRES": 43
+   }
+  },
+  "SAHIH_outside_BM": {
+   "n": 120,
+   "Mishkat": {
+    "IN": 116,
+    "OUT": 0,
+    "UNRES": 4,
+    "confirmed": 115,
+    "probable": 1,
+    "uncertain": 1,
+    "diff_companion": 3,
+    "not_in": 0
+   },
+   "Ma'alim": {
+    "IN": 62,
+    "OUT": 51,
+    "UNRES": 7,
+    "confirmed": 60,
+    "probable": 2,
+    "uncertain": 2,
+    "diff_companion": 5,
+    "not_in": 51
+   },
+   "cells": {
+    "M:IN|A:IN": 62,
+    "M:IN|A:OUT": 47,
+    "M:IN|A:UNRES": 7,
+    "M:UNRES|A:OUT": 4
+   }
+  },
+  "ALL_in_BM": {
+   "n": 1498,
+   "Mishkat": {
+    "IN": 1249,
+    "OUT": 111,
+    "UNRES": 138,
+    "confirmed": 1126,
+    "probable": 123,
+    "uncertain": 59,
+    "diff_companion": 79,
+    "not_in": 111
+   },
+   "Ma'alim": {
+    "IN": 1094,
+    "OUT": 287,
+    "UNRES": 117,
+    "confirmed": 1066,
+    "probable": 28,
+    "uncertain": 45,
+    "diff_companion": 72,
+    "not_in": 287
+   },
+   "cells": {
+    "M:IN|A:IN": 976,
+    "M:IN|A:OUT": 204,
+    "M:IN|A:UNRES": 69,
+    "M:OUT|A:IN": 49,
+    "M:OUT|A:OUT": 57,
+    "M:OUT|A:UNRES": 5,
+    "M:UNRES|A:IN": 69,
+    "M:UNRES|A:OUT": 26,
+    "M:UNRES|A:UNRES": 43
+   }
+  },
+  "ALL_outside_BM": {
+   "n": 398,
+   "Mishkat": {
+    "IN": 348,
+    "OUT": 22,
+    "UNRES": 28,
+    "confirmed": 320,
+    "probable": 28,
+    "uncertain": 4,
+    "diff_companion": 24,
+    "not_in": 22
+   },
+   "Ma'alim": {
+    "IN": 169,
+    "OUT": 194,
+    "UNRES": 35,
+    "confirmed": 160,
+    "probable": 9,
+    "uncertain": 14,
+    "diff_companion": 21,
+    "not_in": 194
+   },
+   "cells": {
+    "M:IN|A:IN": 156,
+    "M:IN|A:OUT": 165,
+    "M:IN|A:UNRES": 27,
+    "M:OUT|A:IN": 5,
+    "M:OUT|A:OUT": 17,
+    "M:UNRES|A:IN": 8,
+    "M:UNRES|A:OUT": 12,
+    "M:UNRES|A:UNRES": 8
+   }
+  }
+ },
+ "sahih_cells": {
+  "in_both": 1038,
+  "in_Mishkat_not_Maalim(unconfirmed)": 326,
+  "in_Maalim_not_Mishkat(unconfirmed)": 118,
+  "in_neither(unconfirmed in both)": 133,
+  "left_out_of_Mishkat(unconfirmed)": 251,
+  "left_out_of_Maalim(unconfirmed)": 459,
+  "left_out_of_both_confident(NOT_IN in both)": 57
+ },
+ "remaining": {
+  "Mishkat_total_entries": 6283,
+  "Mishkat_matched_forward(Riyad->Mishkat)_confirmed": 1229,
+  "Mishkat_matched_forward_incl_probable": 1350,
+  "Mishkat_matched_reverse(Mishkat->Riyad)_confirmed": 1293,
+  "Mishkat_matched_reverse_incl_probable": 1512,
+  "Mishkat_removed_union_confirmed": 1293,
+  "Mishkat_removed_union_incl_probable": 1512,
+  "Mishkat_remaining_strict": 4990,
+  "Mishkat_remaining_inclusive": 4771,
+  "Maalim_total_hadith_blocks": 3373,
+  "Maalim_matched_forward_confirmed": 994,
+  "Maalim_matched_forward_incl_probable": 1010,
+  "Maalim_matched_reverse_confirmed": 1026,
+  "Maalim_matched_reverse_incl_probable": 1068,
+  "Maalim_removed_union_confirmed": 1026,
+  "Maalim_removed_union_incl_probable": 1068,
+  "Maalim_remaining_strict": 2347,
+  "Maalim_remaining_inclusive": 2305,
+  "Mishkat_entries_opening_with_a_narrator": 6013,
+  "Mishkat_continuation_or_note_lines": 270,
+  "Mishkat_full_entries_removed_incl_probable": 1479,
+  "Mishkat_full_entries_remaining_inclusive": 4534,
+  "Mishkat_full_entries_removed_confirmed": 1278,
+  "Mishkat_full_entries_remaining_strict": 4735,
+  "Maalim_entries_opening_with_a_narrator": 3354,
+  "Maalim_continuation_or_note_blocks": 19,
+  "Maalim_full_entries_removed_incl_probable": 1062,
+  "Maalim_full_entries_remaining_inclusive": 2292,
+  "Maalim_full_entries_removed_confirmed": 1020,
+  "Maalim_full_entries_remaining_strict": 2334
+ },
+ "remaining_Mishkat_by_albani_family": {
+  "SAHIHAYN": 747,
+  "SAHIH": 1543,
+  "NOT_STUDIED": 1394,
+  "HASAN": 234,
+  "DAIF": 720,
+  "NO_LABEL": 75,
+  "MAWDU": 20,
+  "JAYYID": 28,
+  "MAWQUF_MURSAL": 3,
+  "HASAN_SAHIH": 6,
+  "OTHER": 1
+ },
+ "all_Mishkat_by_albani_family": {
+  "SAHIHAYN": 1271,
+  "SAHIH": 2242,
+  "NOT_STUDIED": 1552,
+  "HASAN": 288,
+  "DAIF": 773,
+  "NO_LABEL": 88,
+  "MAWDU": 20,
+  "JAYYID": 36,
+  "MAWQUF_MURSAL": 4,
+  "HASAN_SAHIH": 7,
+  "OTHER": 2
+ },
+ "removed_Mishkat_by_albani_family": {
+  "SAHIHAYN": 524,
+  "SAHIH": 699,
+  "NOT_STUDIED": 158,
+  "DAIF": 53,
+  "HASAN": 54,
+  "NO_LABEL": 13,
+  "JAYYID": 8,
+  "MAWQUF_MURSAL": 1,
+  "HASAN_SAHIH": 1,
+  "OTHER": 1
+ },
+ "remaining_Maalim_by_flag": {
+  "none": 1135,
+  "م": 308,
+  "خ": 238,
+  "ق": 622,
+  "خــ": 2
+ },
+ "all_Maalim_by_flag": {
+  "ق": 1092,
+  "none": 1329,
+  "م": 584,
+  "خ": 366,
+  "خــ": 2
+ },
+ "chapters": 366,
+ "chapters_n>=5": 126,
+ "lowest_Mishkat_chapters": [
+  [
+   282,
+   "باب النهي عن تعذيب العبد والدابة والمرأة والولد بغير سبب شرعي أَوْ زائد عَلَى قدر الأدب",
+   9,
+   5
+  ],
+  [
+   11,
+   "باب في المجاهدة",
+   17,
+   10
+  ],
+  [
+   12,
+   "باب الحث عَلَى الازدياد من الخير في أواخر العمر",
+   5,
+   3
+  ],
+  [
+   59,
+   "باب الحث عَلَى الأكل من عمل يده والتعفف به عن السؤال والتعرض للإعطاء",
+   5,
+   3
+  ],
+  [
+   62,
+   "باب الإيثار والمواساة",
+   5,
+   3
+  ],
+  [
+   256,
+   "باب مَا يباح من الغيبة",
+   5,
+   3
+  ],
+  [
+   253,
+   "باب كرامات الأولياء وفضلهم",
+   8,
+   5
+  ],
+  [
+   302,
+   "باب تحريم النياحة على الميت ولطم الخد وشق الجيب ونتف الشعر وحلقه والدعاء بالويل والثبور",
+   11,
+   7
+  ]
+ ],
+ "lowest_Maalim_chapters": [
+  [
+   248,
+   "باب الذكر عِنْدَ الصباح والمساء",
+   7,
+   2
+  ],
+  [
+   78,
+   "باب أمر وُلاة الأمور بالرفق برعاياهم ونصيحتهم والشفقة عليهم والنهي عن غشهم والتشديد عليهم وإهمال مصالحهم والغفلة عنهم وعن حوائجهم",
+   6,
+   2
+  ],
+  [
+   96,
+   "باب وداع الصاحب ووصيته عند فراقه للسفر وغيره والدعاء لَهُ وطلب الدعاء مِنْهُ",
+   6,
+   2
+  ],
+  [
+   157,
+   "باب مَا يقرأ في صلاة الجنازة",
+   6,
+   2
+  ],
+  [
+   303,
+   "باب النَّهي عن إتيان الكُهّان والمنجِّمين والعُرَّاف وأصحاب الرمل والطوارق بالحصى وبالشعير ونحو ذلك",
+   6,
+   2
+  ],
+  [
+   264,
+   "باب تحريم لعن إنسان بعينه أَوْ دابة",
+   8,
+   3
+  ],
+  [
+   128,
+   "باب جواز الاستلقاء عَلَى القفا، ووضع إحدى الرِّجلين عَلَى الأخرى إِذَا لم يخف انكشاف العورة، وجواز القعود متربعًا ومحتبيًا",
+   5,
+   2
+  ],
+  [
+   171,
+   "باب تكبير المسافر إِذَا صعد الثنايا وشبهها، وتسبيحه إِذَا هبط الأودية ونحوها، والنهي عن المبالغة برفع الصوتِ بالتكبير ونحوه",
+   5,
+   2
+  ]
+ ],
+ "chapters_with_zero_in_Mishkat": 13,
+ "chapters_with_zero_in_Maalim": 31,
+ "chapters_fully_in_Mishkat": 198,
+ "chapters_fully_in_Maalim": 125,
+ "riyad_repeats": {
+  "near_identical_pairs": 158,
+  "distinct_narrations": 1749,
+  "redundant_entries": 147
+ },
+ "fahl_footnotes": {
+  "total": 2460,
+  "hadith_with_footnote": 1895,
+  "profile": {
+   "language, meaning, commentary, other": 438,
+   "takhrij (sources + numbers)": 1696,
+   "quotes/refers to Nawawi / the author": 118,
+   "cross-reference to another Riyad hadith": 208
+  },
+  "quote_Tirmidhi_verdict": 120,
+  "name_Albani": 0,
+  "name_Arnaut": 0,
+  "own_isnad_weak_notes(hadith)": 44
+ },
+ "files": {
+  "riyad_sahih_all.txt": 1615,
+  "riyad_daif_all.txt": 66,
+  "riyad_hasan_all.txt": 51,
+  "riyad_other_graded.txt": 4,
+  "riyad_ungraded_needs_grading.txt": 160,
+  "riyad_sahih_left_out_of_mishkat.txt": 251,
+  "riyad_sahih_left_out_of_maalim.txt": 459,
+  "riyad_sahih_left_out_of_both.txt": 133,
+  "riyad_sahih_in_both.txt": 1038,
+  "riyad_sahih_in_mishkat_not_maalim.txt": 326,
+  "riyad_sahih_in_maalim_not_mishkat.txt": 118
+ },
+ "sahih_cells_detail": {
+  "in_Mishkat_Maalim_NOT_IN": 250,
+  "in_Mishkat_Maalim_UNRES": 76,
+  "in_Maalim_Mishkat_NOT_IN": 49,
+  "in_Maalim_Mishkat_UNRES": 69
+ },
+ "generated": "2026-11-22 20:54"
+}

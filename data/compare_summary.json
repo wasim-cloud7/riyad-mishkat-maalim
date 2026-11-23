@@ -1,0 +1,24 @@
+{
+ "pairs": 1892,
+ "status": {
+  "ORTHOGRAPHIC_CONVENTIONS_ONLY": 50,
+  "IDENTICAL": 1125,
+  "WORDING_DIFFERENCES": 367,
+  "BLESSING_FORMULAE_ONLY": 25,
+  "HAMZA_ALIF_SPELLING_ONLY": 128,
+  "SPACING_ONLY": 90,
+  "CONNECTOR_LETTERS_ONLY": 107
+ },
+ "diff_kinds": {
+  "orth_convention": 141,
+  "extra_in_fahl": 138,
+  "different_wording": 97,
+  "blessing_formula": 44,
+  "extra_in_risalah": 123,
+  "minor_word_form": 160,
+  "connector": 152
+ },
+ "wording_hadith": 367,
+ "wording_hadith_with_body_diff": 294,
+ "wording_hadith_tail_only": 73
+}
