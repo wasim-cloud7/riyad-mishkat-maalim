@@ -44,6 +44,8 @@ What was done, in order, and every problem found with how it was handled. Dates 
 | 10 | The Albani file is not a full grading | gate failed | evidence ladder, approved 2026-11-22 |
 | 11 | Junk narrator names: Mishkat entries opening with "وعنه" (and from him) inherited names from note lines; Riyad entries opening with an ordinal ("الثامن: عنه") had no narrator | identical hadith treated as a different Companion, so wrongly "left out" | rewrote the name extractor (`hm_names.py`): ordinals skipped, carry-forward only from real named entries, Abu Dharr and Ali recognised |
 | 12 | The same hadith in another narration (different wording, shorter or longer) scored low | wrongly "left out" | rescue rules R1 to R4 and one shared status for repeated Riyad hadith (`hm_status.py`) |
+| 13 | Hand spot-checks suggested up to ~10% of the 111 clearly-left-out-of-Mishkat hadith might have a counterpart | uncertainty about the headline lists | systematic rare-word cross-check of the 111 and 335 (`docs/CROSSCHECK_LEFT_OUT.md`): no counterpart found; two same-topic neighbours noted (F#240, F#1634) |
+| 14 | A report named `phase2_report.txt` instead of `.md` | wrong file name in a note | corrected in the repository, Dropbox and Notion |
 
 ## Still open
 

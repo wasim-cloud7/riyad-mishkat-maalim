@@ -71,4 +71,4 @@ An 'evidence ladder' built from these gives a defensible sahih / da'if / not-gra
 You approved the evidence ladder (Sahihayn attribution, Albani's labels in this file, Albani's labels on the matching Mishkat entries) as the grading source for Phase 2,
 and asked for a search of the internet for a complete grading of Albani for Riyad; if one exists you will download and upload it.
 The benchmark is now 'sahih according to Albani and/or Arna'ut' (either one is enough). Arna'ut's footnote gradings are not present in the supplied al-Risalah file
-(it carries the text only), so his side currently rests on the Sahihayn attribution alone. Result and counts: phase2/phase2_report.txt.
+(it carries the text only), so his side currently rests on the Sahihayn attribution alone. Result and counts: phase2/phase2_report.md.

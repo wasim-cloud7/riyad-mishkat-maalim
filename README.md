@@ -49,12 +49,14 @@ Full report: [docs/phase2_report.md](docs/phase2_report.md).
 | `docs/phase1b_albani_file_analysis.txt` | Phase 1b report (the Albani file and the evidence-ladder decision) |
 | `docs/METHOD.md` | How hadith were matched, the status definitions, the grading ladder |
 | `docs/PROCESS_LOG.md` | What was done, in order, with every problem found and how it was fixed |
+| `docs/CROSSCHECK_LEFT_OUT.md` | The rare-word cross-check of the 111 / 335 clearly-left-out lists |
 | `docs/DECISIONS_AND_OPEN_QUESTIONS.md` | Your standing rules, decisions taken, questions that still need you |
 | `outputs/phase1/` | Numbering crosswalk, every wording difference, per-hadith rule values, the 94 Albani entries (footnotes cut to 200 characters) |
 | `outputs/phase2/riyad_sahih_all.txt` etc. | The txt lists you asked for (all sahih, all da'if, left out of Mishkat, left out of Ma'alim, in both, left out of both, ...) |
 | `outputs/phase2/phase2_master_riyad.csv` | One row per Riyad hadith: text, chapter, grades with the rung of evidence, sources, status in Mishkat and Ma'alim |
 | `outputs/phase2/phase2_remaining_in_*.csv` | What is left in Mishkat and in Ma'alim after removing Riyad (first 200 characters of each entry) |
 | `outputs/phase2/phase2_numbers.json` | Every number in the Phase 2 report, machine readable |
+| `outputs/phase2/compact_tables/` | The four compact "left out" tables (F#, chapter, grade rung, sources, opening words) that are also in Notion as the three "List:" pages |
 | `scripts/` | The whole pipeline (see below) |
 | `data/` | Small numeric files (parse log, comparison summary, wording-rule numbers) |
 
@@ -68,11 +70,13 @@ The scripts read and write under `/home/claude/work` and `/home/claude/outputs`;
 4. `hm_build.py`, `hm_names.py`, `hm_sources.py`: comparable corpora, narrator names, source-book sets.
 5. `hm_match.py` (six directions), `hm_classify.py`, `hm_tiers.py`, `hm_status.py`: text matching and final status of each hadith.
 6. `phase2_build.py`, `phase2_analyze.py`, `phase2_report.py`: master table, analytics, report.
-7. `probe_*.py`, `cmp_chapter_counts.py`, `profile_riyad.py`, `show_chapter.py`, `albani_overview.py`: one-off checks. `hm_status_v1_backup.py` is the status module before the 2026-11-22 correction, kept for the audit trail.
+7. `make_compact_tables.py`, `crosscheck_left_out.py`: the compact tables and the rare-word cross-check of the left-out lists.
+8. `probe_*.py`, `cmp_chapter_counts.py`, `profile_riyad.py`, `show_chapter.py`, `albani_overview.py`: one-off checks. `hm_status_v1_backup.py` is the status module before the 2026-11-22 correction, kept for the audit trail.
 
 ## Things to know before quoting a number
 
 - Arna'ut's gradings are not in the al-Risalah file you uploaded (text only, no footnotes). His side rests on the Bukhari/Muslim attribution only.
 - No complete Albani grading of Riyad was found online. His grade comes from the evidence ladder (see `docs/METHOD.md`); 160 hadith have no evidence.
-- Matching is by text, not by printed number. About 10% of the 111 sahih hadith clearly left out of Mishkat probably have a counterpart after all (long hadith containing the excerpt, other Companions' wording).
+- Matching is by text, not by printed number. Earlier hand spot-checks suggested up to about 10% of the 111 sahih hadith clearly left out of Mishkat might have a counterpart after all; a systematic rare-word cross-check on 24 Nov 2026 (`docs/CROSSCHECK_LEFT_OUT.md`) found none among the 111 (Mishkat) or the 335 (Ma'alim), but it cannot prove absence. The "unresolved" hadith (140 and 124) are the only ones that could still move into "in".
+- `phase2_numbers.json`: the `lowest_*_chapters` entries rank all hadith of a chapter (chapters with at least 5 hadith), not sahih hadith only.
 - Musnad Ahmad is not available in the Ummah tool, so Ahmad membership comes from the attributions printed in the books.
